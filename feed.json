@@ -9,5 +9,20 @@
         "name": "Teejay"
     },
     "items": [
+        {
+            "id": "https://notunremarkable.github.io/publii-and-github-pages.html",
+            "url": "https://notunremarkable.github.io/publii-and-github-pages.html",
+            "title": "Publii and Github pages",
+            "content_html": "<p>I have been reading about the comeback of static blog sites. During the course of my research, I thought it might be more inline with the way I like to blog and do things. My current content management system (CMS) is Wordpress. It has a lot of features, thousands of plugins to extend functionality, and even more themes (paid and free). There is a thriving Wordpress community, so it's very easy to get up and running ... literally click a button to install in some instances.</p>\n<p>At any rate, it's practical but not *fun* for me. I'm a tinkerer and like to know how things work. I've also been working with straight HTML for hundreds of years ... well, that's how it feels sometimes; so there's a familiarity and comfort level I like.</p>\n<p>So a static site generator (SSG) basically is a framework that helps you create a whole site of static pages. It will build the \"home page\" with the list of posts, track tags, authors, etc. It's usually easier to theme as well. I tried using Pelican, a Python based framework; but had some issues in Windows. For the sake of time, I started searching for other options rather than troubleshoot more (which I may still go back and do eventually).</p>\n<p>Enter <a href=\"https://getpublii.com\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>. It's a downloadable tool with a GUI that helps you manage your whole site (or sites). I've connected it to Github pages to host for free and am now testing it out. So let's see how this goes! In all honesty, I was hoping for a Markdown editor, just because I like that sort of thing, but this is very nice and easy so far ... we'll see.</p>",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Technical",
+                   "Blogging"
+            ],
+            "date_published": "2017-11-05T01:49:33-04:00",
+            "date_modified": "2017-11-05T01:55:49-04:00"
+        }
     ]
 }
