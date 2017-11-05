@@ -3,7 +3,7 @@
     <title>notunremarkable</title>
     <link href="https://notunremarkable.github.io/feed.xml" rel="self" />
     <link href="https://notunremarkable.github.io" />
-    <updated>2017-11-05T12:26:14-05:00</updated>
+    <updated>2017-11-05T13:15:27-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
@@ -14,10 +14,12 @@
         <author>
             <name>Teejay</name>
         </author>
-        <link href="https://notunremarkable.github.io/the-one-in-which-i-test-everything.html"/>
-        <id>https://notunremarkable.github.io/the-one-in-which-i-test-everything.html</id>
+        <link href="https://notunremarkable.github.io/the-one-in-which-i-test-everything/"/>
+        <id>https://notunremarkable.github.io/the-one-in-which-i-test-everything/</id>
+            <category term="Design"/>
+            <category term="Blogging"/>
 
-        <updated>2017-11-05T12:25:36-05:00</updated>
+        <updated>2017-11-05T13:13:50-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -49,8 +51,8 @@
         <author>
             <name>Teejay</name>
         </author>
-        <link href="https://notunremarkable.github.io/publii-and-github-pages.html"/>
-        <id>https://notunremarkable.github.io/publii-and-github-pages.html</id>
+        <link href="https://notunremarkable.github.io/publii-and-github-pages/"/>
+        <id>https://notunremarkable.github.io/publii-and-github-pages/</id>
             <category term="Technical"/>
             <category term="Blogging"/>
 
