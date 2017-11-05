@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://notunremarkable.github.io/the-one-in-which-i-test-everything.html",
+            "url": "https://notunremarkable.github.io/the-one-in-which-i-test-everything.html",
+            "title": "The one in which I test everything",
+            "content_html": "<h2>Testing Everything</h2>\n<p>I want to look at the features of Publii and see how well the WYSIWYG editor works (until I can figure out how/if to use <strong>Markdown</strong>).</p>\n<blockquote>\n<p>Humankind. Be both.</p>\n</blockquote>\n<p>That's a blockquote ... in case&nbsp;<em>you</em> can't <span style=\"text-decoration: line-through;\">figure it out</span> tell.&nbsp;</p>\n<p class=\"align-center\">Center aligned ... obvi.</p>\n\n<p class=\"align-left\">Reasons I'm liking this so far:</p>\n<ul>\n<li>Keeps all my files local</li>\n<li>Easy to setup and use</li>\n<li>Fun to tinker (but works right out of the box so you don't have to)</li>\n</ul>\n<p><img class=\"align-center\" src=\"https://notunremarkable.github.io/media/posts/2/be-a-fruit-loop.jpg\" alt=\"Fruit Loop\" width=\"236\" height=\"295\"></p>\n<p>Images are easy to upload ... I'll have to see where it stores them and how it looks in the post.</p>\n<hr>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cOMSIlsA9o0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>I recently re-signed up for a Todoist subscription. The free version works and has plenty of features, but I want the filters and labels ... which means I pay for the premium. This dude has a lot of great videos on how to get the most out of Todoist too.</p>\n<p>OK, there are a lot of great features. I found in the settings where I was able to change the local location of the files/site too. So now it's sitting in my OneDrive local folder and will get backed up to the cloud as my backup. <em><strong>W00T!</strong></em></p>",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-11-05T12:25:25-05:00",
+            "date_modified": "2017-11-05T12:25:36-05:00"
+        },
+        {
             "id": "https://notunremarkable.github.io/publii-and-github-pages.html",
             "url": "https://notunremarkable.github.io/publii-and-github-pages.html",
             "title": "Publii and Github pages",
