@@ -1,14 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-<loc>https://notunremarkable.github.io/</loc>
+<loc>http://git.notunremarkable.me/</loc>
 </url>
 <url>
-<loc>https://notunremarkable.github.io/old-skool/</loc>
+<loc>http://git.notunremarkable.me/old-skool/</loc>
 </url>
 <url>
-<loc>https://notunremarkable.github.io/publii-and-github-pages/</loc>
+<loc>http://git.notunremarkable.me/publii-and-github-pages/</loc>
 </url>
 <url>
-<loc>https://notunremarkable.github.io/the-one-in-which-i-test-everything/</loc>
+<loc>http://git.notunremarkable.me/the-one-in-which-i-test-everything/</loc>
 </url>
 </urlset>

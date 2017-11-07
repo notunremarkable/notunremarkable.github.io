@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>notunremarkable</title>
-    <link href="https://notunremarkable.github.io/feed.xml" rel="self" />
-    <link href="https://notunremarkable.github.io" />
-    <updated>2017-11-06T21:18:06-05:00</updated>
+    <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
+    <link href="http://git.notunremarkable.me" />
+    <updated>2017-11-06T21:19:14-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
-    <id>https://notunremarkable.github.io</id>
+    <id>http://git.notunremarkable.me</id>
 
     <entry>
         <title>Old Skool </title>
         <author>
             <name>Teejay</name>
         </author>
-        <link href="https://notunremarkable.github.io/old-skool/"/>
-        <id>https://notunremarkable.github.io/old-skool/</id>
+        <link href="http://git.notunremarkable.me/old-skool/"/>
+        <id>http://git.notunremarkable.me/old-skool/</id>
             <category term="Misc"/>
             <category term="Links"/>
 
@@ -23,12 +23,12 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://notunremarkable.github.io/media/posts/3/2017-11-06-post-oldskool.jpeg" alt="" />
+                    <img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-post-oldskool.jpeg" alt="" />
                 <p>Ran across some fun little images that somebody posted. These instantly transported me to my childhood ... anybody else?</p>
-<p><img src="https://notunremarkable.github.io/media/posts/3/2017-11-06-oldskool-01.jpg" alt="" width="640" height="480"></p>
-<p><img src="https://notunremarkable.github.io/media/posts/3/2017-11-06-oldskool-02.jpg" alt="" width="640" height="536"></p>
-<p><img src="https://notunremarkable.github.io/media/posts/3/2017-11-06-oldskool-03.jpg" alt="" width="640" height="616"></p>
-<p><img src="https://notunremarkable.github.io/media/posts/3/2017-11-06-oldskool-04.jpg" alt="" width="640" height="480"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-01.jpg" alt="" width="640" height="480"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-02.jpg" alt="" width="640" height="536"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-03.jpg" alt="" width="640" height="616"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-04.jpg" alt="" width="640" height="480"></p>
 <p>source (plus more images): <a href="https://imgur.com/gallery/tBJ0c" target="_blank" rel="noopener noreferrer">https://imgur.com/gallery/tBJ0c</a></p>
             ]]>
         </content>
@@ -38,8 +38,8 @@
         <author>
             <name>Teejay</name>
         </author>
-        <link href="https://notunremarkable.github.io/the-one-in-which-i-test-everything/"/>
-        <id>https://notunremarkable.github.io/the-one-in-which-i-test-everything/</id>
+        <link href="http://git.notunremarkable.me/the-one-in-which-i-test-everything/"/>
+        <id>http://git.notunremarkable.me/the-one-in-which-i-test-everything/</id>
             <category term="Design"/>
             <category term="Blogging"/>
 
@@ -47,7 +47,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://notunremarkable.github.io/media/posts/2/2017-11-05-post-testing.jpg" alt="" />
+                    <img src="http://git.notunremarkable.me/media/posts/2/2017-11-05-post-testing.jpg" alt="" />
                 <h2>Testing Everything</h2>
 <p>I want to look at the features of Publii and see how well the WYSIWYG editor works (until I can figure out how/if to use <strong>Markdown</strong>).</p>
 <blockquote>
@@ -62,7 +62,7 @@
 <li>Easy to setup and use</li>
 <li>Fun to tinker (but works right out of the box so you don't have to)</li>
 </ul>
-<p><img class="align-center" src="https://notunremarkable.github.io/media/posts/2/be-a-fruit-loop.jpg" alt="Fruit Loop" width="236" height="295"></p>
+<p><img class="align-center" src="http://git.notunremarkable.me/media/posts/2/be-a-fruit-loop.jpg" alt="Fruit Loop" width="236" height="295"></p>
 <p>Images are easy to upload ... I'll have to see where it stores them and how it looks in the post.</p>
 <hr>
 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/cOMSIlsA9o0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
@@ -76,8 +76,8 @@
         <author>
             <name>Teejay</name>
         </author>
-        <link href="https://notunremarkable.github.io/publii-and-github-pages/"/>
-        <id>https://notunremarkable.github.io/publii-and-github-pages/</id>
+        <link href="http://git.notunremarkable.me/publii-and-github-pages/"/>
+        <id>http://git.notunremarkable.me/publii-and-github-pages/</id>
             <category term="Technical"/>
             <category term="Blogging"/>
 
@@ -85,7 +85,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://notunremarkable.github.io/media/posts/1/2017-11-05-post-github.jpg" alt="" />
+                    <img src="http://git.notunremarkable.me/media/posts/1/2017-11-05-post-github.jpg" alt="" />
                 <p>I have been reading about the comeback of static blog sites. During the course of my research, I thought it might be more inline with the way I like to blog and do things. My current content management system (CMS) is Wordpress. It has a lot of features, thousands of plugins to extend functionality, and even more themes (paid and free). There is a thriving Wordpress community, so it's very easy to get up and running ... literally click a button to install in some instances.</p>
 <p>At any rate, it's practical but not *fun* for me. I'm a tinkerer and like to know how things work. I've also been working with straight HTML for hundreds of years ... well, that's how it feels sometimes; so there's a familiarity and comfort level I like.</p>
 <p>So a static site generator (SSG) basically is a framework that helps you create a whole site of static pages. It will build the "home page" with the list of posts, track tags, authors, etc. It's usually easier to theme as well. I tried using Pelican, a Python based framework; but had some issues in Windows. For the sake of time, I started searching for other options rather than troubleshoot more (which I may still go back and do eventually).</p>
