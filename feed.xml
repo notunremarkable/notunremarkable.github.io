@@ -3,7 +3,7 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-11-11T00:36:38-05:00</updated>
+    <updated>2017-11-12T15:01:05-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
@@ -103,7 +103,7 @@
             <category term="Technical"/>
             <category term="Blogging"/>
 
-        <updated>2017-11-11T00:15:24-05:00</updated>
+        <updated>2017-11-12T15:00:21-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -123,13 +123,13 @@
 <p>Once you've got your account setup, you'll jump back to Instagram and connect your account. If you setup Tumblr with multi-factor authentication (which I <span style="font-weight: bold;">ALWAYS</span> recommend you do whenever you can), you'll need to generate an "application password" in Tumblr. This is a one-time password that will only work to setup this connection.</p>
 <p>Here are the steps on Android to connect Tumblr to Instagram (it may differ on other platforms):</p>
 <ol>
-<li>Visit your profile and hit the menu icon (vertical ellipsis)<br> <img class="alignnone size-medium wp-image-140" src="http://git.notunremarkable.me/media/posts/33/instagram-01-169x300.png" alt="" width="169" height="300"></li>
-<li>Then tap "linked accounts"<br> <img class="alignnone size-medium wp-image-141" src="http://git.notunremarkable.me/media/posts/33/instagram-02-169x300.png" alt="" width="169" height="300"></li>
-<li>Then tap "Tumblr"<br> <img class="alignnone size-medium wp-image-142" src="http://git.notunremarkable.me/media/posts/33/instagram-03-169x300.png" alt="" width="169" height="300"></li>
-<li>Next, enter your Tumblr credentials; remember to use the "application password" you create in Tumblr for multi-factor authentication<br> <img class="alignnone size-medium wp-image-143" src="http://git.notunremarkable.me/media/posts/33/instagram-04-169x300.png" alt="" width="169" height="300"><br> <em>Note: I also recommend you UNCHECK "follow blog.instagram.com" unless you really want to follow them on Tumblr</em></li>
+<li>Visit your profile and hit the menu icon (vertical ellipsis)<br> <img class="alignnone size-medium wp-image-140" src="http://git.notunremarkable.me/media/posts/33/instagram-01-169x300.png" width="169" height="300"></li>
+<li>Then tap "linked accounts"<br> <img class="alignnone size-medium wp-image-141" src="http://git.notunremarkable.me/media/posts/33/instagram-02-169x300.png" width="169" height="300"></li>
+<li>Then tap "Tumblr"<br> <img class="alignnone size-medium wp-image-142" src="http://git.notunremarkable.me/media/posts/33/instagram-03-169x300.png" width="169" height="300"></li>
+<li>Next, enter your Tumblr credentials; remember to use the "application password" you create in Tumblr for multi-factor authentication<br> <img class="alignnone size-medium wp-image-143" src="http://git.notunremarkable.me/media/posts/33/instagram-04-169x300.png" width="169" height="300"><br> <em>Note: I also recommend you UNCHECK "follow blog.instagram.com" unless you really want to follow them on Tumblr</em></li>
 </ol>
-<p>That's it, now you've connected Instagram to Tumblr. The next time you post a photo in Instagram, make sure you select to also post to Tumblr:<br> <img class="alignnone size-medium wp-image-144" src="http://git.notunremarkable.me/media/posts/33/instagram-05-169x300.png" alt="" width="169" height="300"></p>
-<p>And then you'll see your photo on your Tumblr blog!<br> <img class="alignnone size-medium wp-image-145" src="http://git.notunremarkable.me/media/posts/33/tumblr-success-final-300x230.png" alt="" width="300" height="230"></p>
+<p>That's it, now you've connected Instagram to Tumblr. The next time you post a photo in Instagram, make sure you select to also post to Tumblr:<br> <img class="alignnone size-medium wp-image-144" src="http://git.notunremarkable.me/media/posts/33/instagram-05-169x300.png" width="169" height="300"></p>
+<p>And then you'll see your photo on your Tumblr blog!<br> <img class="alignnone size-medium wp-image-145" src="http://git.notunremarkable.me/media/posts/33/tumblr-success-final-300x230.png" width="300" height="230"></p>
 <p>So, if you decide to use this route or not ... I would love to see your Project 365. Please share your links below! Also, if you care, <a href="http://44.notunremarkable.me/archive" target="_blank" rel="noopener noreferrer">here's the full 4in44 archive of photos</a> from my 44th year on this planet.</p>
             ]]>
         </content>
