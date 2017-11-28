@@ -3,12 +3,30 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-11-12T16:54:44-05:00</updated>
+    <updated>2017-11-28T15:20:13-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent Calendar</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-intro/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
+            <category term="Security"/>
+
+        <updated>2017-11-28T15:19:59-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg" alt="" />
+                Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the "advent" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Old Skool </title>
         <author>
@@ -291,27 +309,6 @@
 </ol>
 <p>The son went back for three servings ... and he's not vegan. So that should tell you all you need to know. <strong>winking smiley</strong></p>
 <p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_183356.jpg"><img class="alignnone size-medium wp-image-105" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_183356-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_182144.jpg"><img class="alignnone size-medium wp-image-103" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_182144-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_185054.jpg"><img class="alignnone size-medium wp-image-104" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_185054-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_185844.jpg"><img class="alignnone size-medium wp-image-102" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_185844-169x300.jpg" width="169" height="300"></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Parade of the Wooden Soldiers</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/parade-of-the-wooden-soldiers/"/>
-        <id>http://git.notunremarkable.me/parade-of-the-wooden-soldiers/</id>
-            <category term="Music"/>
-            <category term="Family"/>
-
-        <updated>2017-11-12T16:44:23-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p>I went to Arlington National Cemetery to visit my Oma today. She passed away almost seven months ago. I got much more emotional than I expected to, if I'm honest. But her headstone is complete now ... so it was a very nice visit.</p>
-<p><img class="alignnone size-medium wp-image-90" src="http://git.notunremarkable.me/media/posts/24/oma-headstone-175x300.jpg" width="175" height="300"></p>
-<p>There are things that keep popping up that remind me of her lately too ... like she's letting me know she's still around. The one that warmed my heart most recently was an article about a collection of 78rpm records being digitized on <a href="https://archive.org/search.php?query=subject%3A%2278rpm%22" target="_blank" rel="noopener noreferrer">archive.org</a>. I was randomly searching the archive and stumbled upon "<a href="https://archive.org/details/78_parade-of-the-wooden-soldiers_ray-miller-and-his-orchestra-jessel_gbia0011737b" target="_blank" rel="noopener noreferrer">Parade of the Wooden Soldiers</a>." Oma used to play that song for me, back when she had her piano. Now I have her piano ... and the sheet music for "Parade of the Wooden Soldiers."&nbsp;<strong>Edit:&nbsp;</strong>I can't seem to get the embed to work, so just <a href="https://archive.org/details/78_parade-of-the-wooden-soldiers_ray-miller-and-his-orchestra-jessel_gbia0011737b" target="_blank" rel="noopener noreferrer">head over and listen to the song</a>, dagnabit!</p>
-<p>I think I need to learn that song ...</p>
             ]]>
         </content>
     </entry>
