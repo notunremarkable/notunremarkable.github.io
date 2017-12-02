@@ -3,12 +3,31 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-02T00:12:50-05:00</updated>
+    <updated>2017-12-02T00:38:18-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 02</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-02/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-02/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-02T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/36/advent-02.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>use anti-virus and anti-malware</strong><br><br>Adding another layer of security is installing an anti-virus <em>AND</em> an anti-malware program on your computer <em>AND</em> your phone. Macs, Windows, iPhones, Androids &hellip; all of them&nbsp;are&nbsp;potentially vulnerable. Also, no single anti-virus program can catch everything, but something is better than nothing. Plus, there are so many free options available, it's almost sinful not to install one.<br><br>So, what's the difference between anti-virus and anti-malware? A Virus is&nbsp;a specific type of malware designed to spread (like a biological virus). Malware is the general term for anything bad that gets installed on your device (spyware, adware, viruses, trojans, etc.). You're probably asking why you would need two programs installed if anti-malware includes anti-virus capabilities. There are two reasons &hellip;<br><br>First, no single provider can catch everything. Every provider of anti-virus or anti-malware software handles scanning and detection in a different way. By having two different pieces of software installed, you're adding another layer of protection.<br><br>Second,&nbsp;anti-virus tools typically run all the time, scanning files and your computer on a regular basis. Anti-malware tools typically run on-demand, when you want to check something specific. <br><br>So, do yourself a favor and find a decent anti-virus and anti-malware program. I currently use <a href="https://www.avg.com/en-us/free-antivirus-download" target="_blank" rel="noopener noreferrer">AVG </a>for Anti-virus (for Windows and Android) and <a href="https://www.malwarebytes.com/">Malwarebytes </a>for anti-malware. There are plenty of both anti-virus and anti-malware options available though.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 01</title>
         <author>
@@ -18,12 +37,12 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-day-01/</id>
             <category term="Security"/>
 
-        <updated>2017-12-02T00:12:39-05:00</updated>
+        <updated>2017-12-02T00:38:00-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="http://git.notunremarkable.me/media/posts/35/advent-01.jpg" alt="" />
-                Today's Cybersecurity tip is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>
+                Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>
 <ul>
 <li><em>Operating system&nbsp;</em>updates are done through <strong style="font-size: inherit;">Settings -&gt; Update &amp; Security</strong><span style="font-size: inherit;"> and just verify your settings (active hours, restart options, etc)</span></li>
 <li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure "Update apps automatically" is turned on</li>
@@ -59,7 +78,7 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
             <category term="Security"/>
 
-        <updated>2017-11-30T21:50:25-05:00</updated>
+        <updated>2017-12-02T00:35:00-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -68,6 +87,7 @@
 <p>The calendar:</p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/35">Day 01</a></li>
+<li><a href="#INTERNAL_LINK#/post/36">Day 02</a></li>
 </ul>
             ]]>
         </content>
@@ -289,31 +309,6 @@
 <p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_170401.jpg"><img class="alignnone size-medium wp-image-117" src="http://git.notunremarkable.me/media/posts/27/IMG_20170913_170401-169x300.jpg" width="169" height="300"></a></p>
 <p>Bake for 30-45 minutes, but it really depends on the apples and how baked you want them. We like them pretty well baked and not very firm, so it takes longer. Use a fork to determine when they're done to your liking. We serve in a bowl with ice cream or vanilla flavored coffee creamer (particularly if you don't have ice cream in the house) poured over the top. Scrumptious!</p>
 <p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_202310.jpg"><img class="alignnone size-medium wp-image-118" src="http://git.notunremarkable.me/media/posts/27/IMG_20170913_202310-300x169.jpg" width="300" height="169"></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A different world</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/a-different-world/"/>
-        <id>http://git.notunremarkable.me/a-different-world/</id>
-            <category term="History"/>
-            <category term="Blogging"/>
-
-        <updated>2017-11-12T15:04:18-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Note:&nbsp;</strong>I posted this originally on the Friendface ... but felt I should post it here too.</p>
-<p><a href="http://git.notunremarkable.me/media/posts/26/21432928_10213937925659517_435124736910428238_n.jpg"><img class="alignnone wp-image-112 size-full" src="http://git.notunremarkable.me/media/posts/26/21432928_10213937925659517_435124736910428238_n.jpg" width="960" height="645"></a></p>
-<div id="id_59b70192d74a15834631419" class="text_exposed_root text_exposed">Found this photo on imgur. People watching the WTC burn 16 years ago.
-<p>I remember that day pretty vividly. I remember feeling like the world would change. And it has.</p>
-<p>I hope we can all pull ourselves up by the collective bootstraps and learn to be nicer to each other. We're stuck on this planet together, we might as well.</p>
-<p>Hug your loved ones. Say "hi" to your neighbors. Reach out to somebody who needs a hand right now. Stay safe.</p>
-<p>Love you guys.</p>
-</div>
             ]]>
         </content>
     </entry>

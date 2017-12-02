@@ -10,10 +10,25 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-02/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-02/",
+            "title": "Cybersecurity Advent - Day 02",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>use anti-virus and anti-malware</strong><br><br>Adding another layer of security is installing an anti-virus <em>AND</em> an anti-malware program on your computer <em>AND</em> your phone. Macs, Windows, iPhones, Androids &hellip; all of them&nbsp;are&nbsp;potentially vulnerable. Also, no single anti-virus program can catch everything, but something is better than nothing. Plus, there are so many free options available, it's almost sinful not to install one.<br><br>So, what's the difference between anti-virus and anti-malware? A Virus is&nbsp;a specific type of malware designed to spread (like a biological virus). Malware is the general term for anything bad that gets installed on your device (spyware, adware, viruses, trojans, etc.). You're probably asking why you would need two programs installed if anti-malware includes anti-virus capabilities. There are two reasons &hellip;<br><br>First, no single provider can catch everything. Every provider of anti-virus or anti-malware software handles scanning and detection in a different way. By having two different pieces of software installed, you're adding another layer of protection.<br><br>Second,&nbsp;anti-virus tools typically run all the time, scanning files and your computer on a regular basis. Anti-malware tools typically run on-demand, when you want to check something specific. <br><br>So, do yourself a favor and find a decent anti-virus and anti-malware program. I currently use <a href=\"https://www.avg.com/en-us/free-antivirus-download\" target=\"_blank\" rel=\"noopener noreferrer\">AVG </a>for Anti-virus (for Windows and Android) and <a href=\"https://www.malwarebytes.com/\">Malwarebytes </a>for anti-malware. There are plenty of both anti-virus and anti-malware options available though.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/36/advent-02.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-02T09:00:00-05:00",
+            "date_modified": "2017-12-02T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-01/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-01/",
             "title": "Cybersecurity Advent - Day 01",
-            "content_html": "Today's Cybersecurity tip is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>\n<ul>\n<li><em>Operating system&nbsp;</em>updates are done through <strong style=\"font-size: inherit;\">Settings -&gt; Update &amp; Security</strong><span style=\"font-size: inherit;\"> and just verify your settings (active hours, restart options, etc)</span></li>\n<li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure \"Update apps automatically\" is turned on</li>\n<li><em>Apps downloaded manually</em> will need to be updated through the settings in those apps</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Mac OS X High Sierra</strong></p>\n<ul>\n<li>Both <em>Operating System</em> and <em>app</em> updates are done through <strong>System Preferences -&gt; App Store</strong> and make sure \"Automatically check for updates\" (with appropriate preferences) is checked</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li><em>Operating System&nbsp;</em>automatic updates are enabled by default, but you can verify by going to <strong>System -&gt; System update</strong> to see the last date and time the phone checked</li>\n<li>To make sure your <em>apps</em> are updated, visit&nbsp;<strong>Play Store -&gt; Settings -&gt; Auto-update apps</strong> and select the appropriate choice (wifi only or at any time)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li><em>Operating System</em> updates are in <strong>Settings -&gt; General -&gt; Software Update</strong>; these are automatically enabled, but you can verify here</li>\n<li><em>App</em> updates are enabled in <strong>Settings -&gt; iTunes &amp; App Stores</strong> and toggle \"Updates\" to on</li>\n</ul>\n<p>See you tomorrow!</p>",
+            "content_html": "Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>\n<ul>\n<li><em>Operating system&nbsp;</em>updates are done through <strong style=\"font-size: inherit;\">Settings -&gt; Update &amp; Security</strong><span style=\"font-size: inherit;\"> and just verify your settings (active hours, restart options, etc)</span></li>\n<li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure \"Update apps automatically\" is turned on</li>\n<li><em>Apps downloaded manually</em> will need to be updated through the settings in those apps</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Mac OS X High Sierra</strong></p>\n<ul>\n<li>Both <em>Operating System</em> and <em>app</em> updates are done through <strong>System Preferences -&gt; App Store</strong> and make sure \"Automatically check for updates\" (with appropriate preferences) is checked</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li><em>Operating System&nbsp;</em>automatic updates are enabled by default, but you can verify by going to <strong>System -&gt; System update</strong> to see the last date and time the phone checked</li>\n<li>To make sure your <em>apps</em> are updated, visit&nbsp;<strong>Play Store -&gt; Settings -&gt; Auto-update apps</strong> and select the appropriate choice (wifi only or at any time)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li><em>Operating System</em> updates are in <strong>Settings -&gt; General -&gt; Software Update</strong>; these are automatically enabled, but you can verify here</li>\n<li><em>App</em> updates are enabled in <strong>Settings -&gt; iTunes &amp; App Stores</strong> and toggle \"Updates\" to on</li>\n</ul>\n<p>See you tomorrow!</p>",
             "image": "http://git.notunremarkable.me/media/posts/35/advent-01.jpg",
             "author": {
                 "name": "Teejay"
@@ -22,13 +37,13 @@
                    "Security"
             ],
             "date_published": "2017-12-01T21:44:00-05:00",
-            "date_modified": "2017-12-02T00:12:39-05:00"
+            "date_modified": "2017-12-02T00:38:00-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -37,7 +52,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-11-30T21:50:25-05:00"
+            "date_modified": "2017-12-02T00:35:00-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/old-skool/",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2017-09-16T16:21:28-04:00",
             "date_modified": "2017-11-12T15:03:54-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/a-different-world/",
-            "url": "http://git.notunremarkable.me/a-different-world/",
-            "title": "A different world",
-            "content_html": "<p><strong>Note:&nbsp;</strong>I posted this originally on the Friendface ... but felt I should post it here too.</p>\n<p><a href=\"http://git.notunremarkable.me/media/posts/26/21432928_10213937925659517_435124736910428238_n.jpg\"><img class=\"alignnone wp-image-112 size-full\" src=\"http://git.notunremarkable.me/media/posts/26/21432928_10213937925659517_435124736910428238_n.jpg\" width=\"960\" height=\"645\"></a></p>\n<div id=\"id_59b70192d74a15834631419\" class=\"text_exposed_root text_exposed\">Found this photo on imgur. People watching the WTC burn 16 years ago.\n<p>I remember that day pretty vividly. I remember feeling like the world would change. And it has.</p>\n<p>I hope we can all pull ourselves up by the collective bootstraps and learn to be nicer to each other. We're stuck on this planet together, we might as well.</p>\n<p>Hug your loved ones. Say \"hi\" to your neighbors. Reach out to somebody who needs a hand right now. Stay safe.</p>\n<p>Love you guys.</p>\n</div>",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "History",
-                   "Blogging"
-            ],
-            "date_published": "2017-09-11T17:39:19-04:00",
-            "date_modified": "2017-11-12T15:04:18-05:00"
         }
     ]
 }
