@@ -3,12 +3,53 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-11-28T15:20:13-05:00</updated>
+    <updated>2017-12-02T00:06:27-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 01</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-01/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-01/</id>
+            <category term="Security"/>
+
+        <updated>2017-11-30T21:57:35-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/35/advent-01.jpg" alt="" />
+                Today's Cybersecurity tip is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>
+<ul>
+<li><em>Operating system&nbsp;</em>updates are done through <strong style="font-size: inherit;">Settings -&gt; Update &amp; Security</strong><span style="font-size: inherit;"> and just verify your settings (active hours, restart options, etc)</span></li>
+<li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure "Update apps automatically" is turned on</li>
+<li><em>Apps downloaded manually</em> will need to be updated through the settings in those apps</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Mac OS X High Sierra</strong></p>
+<ul>
+<li>Both <em>Operating System</em> and <em>app</em> updates are done through <strong>System Preferences -&gt; App Store</strong> and make sure "Automatically check for updates" (with appropriate preferences) is checked</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Android O</strong></p>
+<ul>
+<li><em>Operating System&nbsp;</em>automatic updates are enabled by default, but you can verify by going to <strong>System -&gt; System update</strong> to see the last date and time the phone checked</li>
+<li>To make sure your <em>apps</em> are updated, visit&nbsp;<strong>Play Store -&gt; Settings -&gt; Auto-update apps</strong> and select the appropriate choice (wifi only or at any time)</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>iOS 11</strong></p>
+<ul>
+<li><em>Operating System</em> updates are in <strong>Settings -&gt; General -&gt; Software Update</strong>; these are automatically enabled, but you can verify here</li>
+<li><em>App</em> updates are enabled in <strong>Settings -&gt; iTunes &amp; App Stores</strong> and toggle "Updates" to on</li>
+</ul>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent Calendar</title>
         <author>
@@ -18,12 +59,16 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
             <category term="Security"/>
 
-        <updated>2017-11-28T15:19:59-05:00</updated>
+        <updated>2017-11-30T21:50:25-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg" alt="" />
-                Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the "advent" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.
+                <p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the "advent" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>
+<p>The calendar:</p>
+<ul>
+<li><a href="#INTERNAL_LINK#/post/35">Day 01</a></li>
+</ul>
             ]]>
         </content>
     </entry>
@@ -269,46 +314,6 @@
 <p>Hug your loved ones. Say "hi" to your neighbors. Reach out to somebody who needs a hand right now. Stay safe.</p>
 <p>Love you guys.</p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vegan Garlic Alfredo Sauce</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/vegan-garlic-alfredo-sauce/"/>
-        <id>http://git.notunremarkable.me/vegan-garlic-alfredo-sauce/</id>
-            <category term="Food"/>
-
-        <updated>2017-11-12T16:43:58-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_192449-e1504748279166.jpg" alt="" />
-                <p>I made <a href="http://thevegan8.com/2013/12/28/vegan-garlic-alfredo-sauce/" target="_blank" rel="noopener noreferrer">this vegan garlic Alfredo sauce</a> tonight ... and it was a hit!</p>
-<p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_192449-e1504748279166.jpg" target="_blank" rel="noopener noreferrer"><img class="alignnone wp-image-101 size-medium" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_192449-e1504748279166-265x300.jpg" width="265" height="300"></a></p>
-<p>The recipe is from "<a href="http://thevegan8.com/" target="_blank" rel="noopener noreferrer">The Vegan 8</a>", so it's only eight ingredients. I found it took a little longer than the recipe suggests to make. It took about double the time for me to render down the onion and garlic, but still not long altogether. Very easy to make too. Basically, you just render down the onion and garlic in some veggie broth. Then mix everything in a blender and add to pasta. It was creamy and garlicky ... just the way I like it. Don't forget to soak the cashews!</p>
-<p>I'll repost the recipe here, but make sure you give some lover over at The Vegan 8 if you do use the recipe.</p>
-<p><strong>Ingredients:</strong></p>
-<ul>
-<li>1 medium white onion, chopped (should be about 1 1/2 cups)</li>
-<li>2 cups vegetarian broth, separated</li>
-<li>1/2 tsp salt</li>
-<li>pepper</li>
-<li>4 large cloves garlic, minced</li>
-<li>1/2 (heaping) cup raw cashews, soaked (soak overnight if you don't have a powerful blender)</li>
-<li>1-2 Tbsp lemon juice</li>
-<li>1/4 cup nutritional yeast</li>
-</ul>
-<p><strong>Instructions:</strong></p>
-<ol>
-<li>Add the onion and&nbsp;<strong>one cup</strong> of broth to a large pan over medium-low heat. Cook about eight minutes or until onion is tender.</li>
-<li>After several minutes, add the garlic and cook until all the broth is evaporated.</li>
-<li>Put the cooked onion and garlic in the blender and add remaining ingredients (start with about 3/4 cup of remaining broth and add more as needed). Blend on high for a few minutes or until creamy and smooth.</li>
-</ol>
-<p>The son went back for three servings ... and he's not vegan. So that should tell you all you need to know. <strong>winking smiley</strong></p>
-<p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_183356.jpg"><img class="alignnone size-medium wp-image-105" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_183356-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_182144.jpg"><img class="alignnone size-medium wp-image-103" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_182144-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_185054.jpg"><img class="alignnone size-medium wp-image-104" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_185054-169x300.jpg" width="169" height="300"></a> <a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170906_185844.jpg"><img class="alignnone size-medium wp-image-102" src="http://git.notunremarkable.me/media/posts/25/IMG_20170906_185844-169x300.jpg" width="169" height="300"></a></p>
             ]]>
         </content>
     </entry>
