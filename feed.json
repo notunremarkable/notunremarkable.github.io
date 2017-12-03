@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
+            "title": "Cybersecurity Advent - Day 03",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>review your computer's privacy settings</strong></p>\n<p>It's no secret that companies gather information about their customers. The problem is when we don't pay attention and let them gather everything about us and our habits. While their service may be great, and their intentions innocent, if they've got that information then somebody with not-so-innocent intentions can get that information; you have no control over how well those companies protect your information.&nbsp;</p>\n<p>While it is easier than ever before to gather private information about people, it's also fairly easy to restrict that information (location, contacts, etc.). It might not be possible to restrict some information, depending on the device or application. In fact, restricting some information actually breaks the intended use of the application (imagine trying to use your Maps app without granting it location use ... possible, but not as intended). Therefore, it's worth taking 15 minutes or so to review your privacty settings to make sure you're comfortable with the amount of information you're sharing.</p>\n<p>Here's how to do that on the more&nbsp;popular platforms:</p>\n<p><strong>Windows 10</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> and there are several menus worth of information to review&nbsp;</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Mac OS X High Sierra</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Security &amp; Privacy -&gt; Privacy</strong> to review all your privacy settings</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>First you'll want to check your Google privacy settings by visiting&nbsp;<strong>Settings -&gt; Google -&gt; Personal Info &amp; Privacy</strong> or visiting&nbsp;<a href=\"https://myaccount.google.com\">https://myaccount.google.com</a>&nbsp;in a browser while signed in with your Google account</li>\n<li>Then you'll want to check&nbsp;<em>App</em>&nbsp;settings by visiting&nbsp;<strong>Settings -&gt; Apps &amp; Notifications -&gt; App permissions</strong> to review which apps have phone, camera, location, etc. permissions</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> to review all your privacy settings</li>\n</ul>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/37/advent-03.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-03T09:00:00-05:00",
+            "date_modified": "2017-12-03T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-02/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-02/",
             "title": "Cybersecurity Advent - Day 02",
@@ -43,7 +58,7 @@
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/37\">Day 03</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -52,7 +67,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-02T00:35:00-05:00"
+            "date_modified": "2017-12-02T18:32:09-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/old-skool/",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2017-09-21T08:15:49-04:00",
             "date_modified": "2017-11-11T00:16:03-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/recipe-baked-apples/",
-            "url": "http://git.notunremarkable.me/recipe-baked-apples/",
-            "title": "Recipe: Baked Apples",
-            "content_html": "<p>Baked apples are a Fall tradition in our house. Every year since the kids were little we've gone apple picking. When you've got bags and bags of apples, you have to figure out a way to use them all. Apple pies are delicious, but a little labor intensive. I don't remember how we first started making these ... but once we did, it's become a regular \"must have\" in our house.</p>\n<p>Without further ado, here's how we make baked apples ...</p>\n<ul>\n<li>4 apples - good for baking (Honeycrisp, Golden Delicious, etc.)</li>\n<li>2 C flour</li>\n<li>1 tsp baking powder</li>\n<li>1/2 tsp salt</li>\n<li>2/3 C. oil</li>\n<li>1/3 C. boiling water</li>\n<li>brown sugar</li>\n<li>butter</li>\n</ul>\n<p>Preheat the oven to 375&deg;. Core and peel the apples.</p>\n<p>To make the dough, mix the flour, baking powder, and salt in a large bowl or mixing bowl. Mix the oil and boiling water together and stir briskly until well blended. Then pour the liquid into the flour mixture and mix until all blended together. You should have a nice ball of pie crust.</p>\n<p>Split the crust into four equal parts (one part for each apple). Wrap the bottom and sides of each apple, leaving the top open for now. Make sure you reserve a small portion of dough to cover the tops later (see photo below). Place the apples into a baking dish (I use a glass 8x8 dish). Pour brown sugar in each core to the top, then pack it down. Put a dab of butter on top of the packed brown sugar, then fill the top with more packed brown sugar. Use the reserved bit of dough to cover the tops of the apples.</p>\n<p><a href=\"http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_170401.jpg\"><img class=\"alignnone size-medium wp-image-117\" src=\"http://git.notunremarkable.me/media/posts/27/IMG_20170913_170401-169x300.jpg\" width=\"169\" height=\"300\"></a></p>\n<p>Bake for 30-45 minutes, but it really depends on the apples and how baked you want them. We like them pretty well baked and not very firm, so it takes longer. Use a fork to determine when they're done to your liking. We serve in a bowl with ice cream or vanilla flavored coffee creamer (particularly if you don't have ice cream in the house) poured over the top. Scrumptious!</p>\n<p><a href=\"http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_202310.jpg\"><img class=\"alignnone size-medium wp-image-118\" src=\"http://git.notunremarkable.me/media/posts/27/IMG_20170913_202310-300x169.jpg\" width=\"300\" height=\"169\"></a></p>",
-            "image": "http://git.notunremarkable.me/media/posts/27/IMG_20170913_202310.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Food"
-            ],
-            "date_published": "2017-09-16T16:21:28-04:00",
-            "date_modified": "2017-11-12T15:03:54-05:00"
         }
     ]
 }

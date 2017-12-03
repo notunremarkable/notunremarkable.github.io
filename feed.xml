@@ -3,12 +3,54 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-02T00:42:47-05:00</updated>
+    <updated>2017-12-03T09:41:00-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 03</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-03/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-03/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-03T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/37/advent-03.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>review your computer's privacy settings</strong></p>
+<p>It's no secret that companies gather information about their customers. The problem is when we don't pay attention and let them gather everything about us and our habits. While their service may be great, and their intentions innocent, if they've got that information then somebody with not-so-innocent intentions can get that information; you have no control over how well those companies protect your information.&nbsp;</p>
+<p>While it is easier than ever before to gather private information about people, it's also fairly easy to restrict that information (location, contacts, etc.). It might not be possible to restrict some information, depending on the device or application. In fact, restricting some information actually breaks the intended use of the application (imagine trying to use your Maps app without granting it location use ... possible, but not as intended). Therefore, it's worth taking 15 minutes or so to review your privacty settings to make sure you're comfortable with the amount of information you're sharing.</p>
+<p>Here's how to do that on the more&nbsp;popular platforms:</p>
+<p><strong>Windows 10</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> and there are several menus worth of information to review&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Mac OS X High Sierra</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Security &amp; Privacy -&gt; Privacy</strong> to review all your privacy settings</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Android O</strong></p>
+<ul>
+<li>First you'll want to check your Google privacy settings by visiting&nbsp;<strong>Settings -&gt; Google -&gt; Personal Info &amp; Privacy</strong> or visiting&nbsp;<a href="https://myaccount.google.com">https://myaccount.google.com</a>&nbsp;in a browser while signed in with your Google account</li>
+<li>Then you'll want to check&nbsp;<em>App</em>&nbsp;settings by visiting&nbsp;<strong>Settings -&gt; Apps &amp; Notifications -&gt; App permissions</strong> to review which apps have phone, camera, location, etc. permissions</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>iOS 11</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> to review all your privacy settings</li>
+</ul>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 02</title>
         <author>
@@ -78,7 +120,7 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
             <category term="Security"/>
 
-        <updated>2017-12-02T00:35:00-05:00</updated>
+        <updated>2017-12-02T18:32:09-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -88,6 +130,7 @@
 <ul>
 <li><a href="#INTERNAL_LINK#/post/35">Day 01</a></li>
 <li><a href="#INTERNAL_LINK#/post/36">Day 02</a></li>
+<li><a href="#INTERNAL_LINK#/post/37">Day 03</a></li>
 </ul>
             ]]>
         </content>
@@ -274,41 +317,6 @@
 </div>
 <div data-offset-key="dsupv-0-0">&nbsp;</div>
 <div data-offset-key="dsupv-0-0">Once I've regained some of my mental fortitude, maybe I'll read the <a href="https://alternativeright.hopenothate.com/" target="_blank" rel="noopener noreferrer">actual report from Hope Not Hate</a>. Oof.</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Recipe: Baked Apples</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/recipe-baked-apples/"/>
-        <id>http://git.notunremarkable.me/recipe-baked-apples/</id>
-            <category term="Food"/>
-
-        <updated>2017-11-12T15:03:54-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/27/IMG_20170913_202310.jpg" alt="" />
-                <p>Baked apples are a Fall tradition in our house. Every year since the kids were little we've gone apple picking. When you've got bags and bags of apples, you have to figure out a way to use them all. Apple pies are delicious, but a little labor intensive. I don't remember how we first started making these ... but once we did, it's become a regular "must have" in our house.</p>
-<p>Without further ado, here's how we make baked apples ...</p>
-<ul>
-<li>4 apples - good for baking (Honeycrisp, Golden Delicious, etc.)</li>
-<li>2 C flour</li>
-<li>1 tsp baking powder</li>
-<li>1/2 tsp salt</li>
-<li>2/3 C. oil</li>
-<li>1/3 C. boiling water</li>
-<li>brown sugar</li>
-<li>butter</li>
-</ul>
-<p>Preheat the oven to 375&deg;. Core and peel the apples.</p>
-<p>To make the dough, mix the flour, baking powder, and salt in a large bowl or mixing bowl. Mix the oil and boiling water together and stir briskly until well blended. Then pour the liquid into the flour mixture and mix until all blended together. You should have a nice ball of pie crust.</p>
-<p>Split the crust into four equal parts (one part for each apple). Wrap the bottom and sides of each apple, leaving the top open for now. Make sure you reserve a small portion of dough to cover the tops later (see photo below). Place the apples into a baking dish (I use a glass 8x8 dish). Pour brown sugar in each core to the top, then pack it down. Put a dab of butter on top of the packed brown sugar, then fill the top with more packed brown sugar. Use the reserved bit of dough to cover the tops of the apples.</p>
-<p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_170401.jpg"><img class="alignnone size-medium wp-image-117" src="http://git.notunremarkable.me/media/posts/27/IMG_20170913_170401-169x300.jpg" width="169" height="300"></a></p>
-<p>Bake for 30-45 minutes, but it really depends on the apples and how baked you want them. We like them pretty well baked and not very firm, so it takes longer. Use a fork to determine when they're done to your liking. We serve in a bowl with ice cream or vanilla flavored coffee creamer (particularly if you don't have ice cream in the house) poured over the top. Scrumptious!</p>
-<p><a href="http://notunremarkable.me/wp-content/uploads/2017/09/IMG_20170913_202310.jpg"><img class="alignnone size-medium wp-image-118" src="http://git.notunremarkable.me/media/posts/27/IMG_20170913_202310-300x169.jpg" width="300" height="169"></a></p>
             ]]>
         </content>
     </entry>
