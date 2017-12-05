@@ -3,12 +3,51 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-04T20:32:22-05:00</updated>
+    <updated>2017-12-05T09:09:41-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 05</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-05/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-05/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-05T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/39/advent-05.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is:&nbsp;<strong>encrypt everything</strong></p>
+<p>Encryption seems like a scary topic to a lot of people; and if you get into the weeds of the algorithms used and salts and hashes ... it certainly can be. But for most people in everyday life, encryption boils down to <strong>securing data or information with a password</strong>; something everybody should already be familiar with.</p>
+<p>Rather than try to espouse the benefits of encryption and debate the pros and cons, let me just say that encryption keeps data at rest protected. If you're storing unencrypted files in the cloud, and a hacker gets those files, they have all that information. If those same files are encrypted, you've made it exponentially harder for the hacker to get the information in those files.</p>
+<p>In the interest of keeping this a "tip" rather than an essay, and so I don't take the thunder out of any potential future "tips" in this series, let me touch on some things you can do to encrypt your local storage and devices using built-in tools.</p>
+<p><strong>Windows</strong></p>
+<ul>
+<li>Certain versions of Windows contain Bitlocker full disk encryption; if you have this available to you ... USE IT; if not, consider upgrading to a higher version of Windows or using a third-party encryption tool</li>
+</ul>
+<p><strong>Mac OS X&nbsp;</strong></p>
+<ul>
+<li>FileVault full disk encryption is available in&nbsp;<strong>System Preferences -&gt; Security &amp; Privacy -&gt; FileVault</strong></li>
+</ul>
+<p><strong>Android O</strong></p>
+<ul>
+<li>Encryption can be enabled in&nbsp;<strong>Settings -&gt; Security &amp; Location -&gt; Encryption &amp; Credentials</strong></li>
+</ul>
+<p><strong>iOS</strong></p>
+<ul>
+<li>Encryption is enabled by default when you have a passcode enabled ... so <strong>make sure you have a passcode setup</strong></li>
+</ul>
+<p>Please note&nbsp;that encrypting your hard drive can potentially slow down your system since it's decrypting files or drives before use. However, most modern devices are fast enough to compensate and you would only notice this on older, slower devices anyway. Also note, I didn't mention encrypted containers or third-party encryption applications like VeraCrypt, Symantec Drive Encryption, etc. These have the same effect, but aren't integrated into the operating system, so are potentially less secure&nbsp;... but also have their valid uses.&nbsp;If you want more information about these tools, ask below.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 04</title>
         <author>
@@ -147,7 +186,7 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
             <category term="Security"/>
 
-        <updated>2017-12-03T15:30:01-05:00</updated>
+        <updated>2017-12-04T22:28:41-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -159,6 +198,7 @@
 <li><a href="#INTERNAL_LINK#/post/36">Day 02</a></li>
 <li><a href="#INTERNAL_LINK#/post/37">Day 03</a></li>
 <li><a href="#INTERNAL_LINK#/post/38">Day 04</a></li>
+<li><a href="#INTERNAL_LINK#/post/39">Day 05</a></li>
 </ul>
             ]]>
         </content>
@@ -285,27 +325,6 @@
 <p>That's it, now you've connected Instagram to Tumblr. The next time you post a photo in Instagram, make sure you select to also post to Tumblr:<br> <img class="alignnone size-medium wp-image-144" src="http://git.notunremarkable.me/media/posts/33/instagram-05-169x300.png" width="169" height="300"></p>
 <p>And then you'll see your photo on your Tumblr blog!<br> <img class="alignnone size-medium wp-image-145" src="http://git.notunremarkable.me/media/posts/33/tumblr-success-final-300x230.png" width="300" height="230"></p>
 <p>So, if you decide to use this route or not ... I would love to see your Project 365. Please share your links below! Also, if you care, <a href="http://44.notunremarkable.me/archive" target="_blank" rel="noopener noreferrer">here's the full 4in44 archive of photos</a> from my 44th year on this planet.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Devoured by its own economic model</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/devoured-by-its-own-economic-model-2/"/>
-        <id>http://git.notunremarkable.me/devoured-by-its-own-economic-model-2/</id>
-            <category term="World"/>
-
-        <updated>2017-11-11T00:15:48-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.sbnation.com/2017/9/19/16314082/nfl-ratings-colin-kaepernick-los-angeles-rams-owners-money" target="_blank" rel="noopener noreferrer">This is actually a great article over at SBNation</a>&nbsp;which is more about economics than the NFL and Football.</p>
-<p><strong>TL;DR</strong> - NFL franchises have become experts at "squeezing every profitable dollar, and trimming every wasteful one from the budget" making their teams more of an investment property that can coast on TV revenues. They're able to get others to pay for their stadiums too! They're masters of putting in just enough effort to keep fans interested in their team without having to actually produce anything good.</p>
-<p>I feel like I'm seeing that trend in a lot of industries lately. Rush to the top, edging out every other competitor along the way ... then just coast along, sucking in the (almighty) profits.</p>
-<p>And yet we, the consumers, continue to let them get away with it. "I've been an <em><em>insert your team here</em></em> fan my whole life ... I can't possibly support another team." Or, "I've been using products by <em><em>insert favorite company here</em></em> forever." And so on. Often times it's just easier to purchase one product over another, or go to one restaurant chain instead of another. I dunno ... there's no real "solution" that I know of ... I just thought it was a very astute article written about one subject that can be applied to others.</p>
-<p><em>#ramblingoldfool</em></p>
             ]]>
         </content>
     </entry>

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-05/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-05/",
+            "title": "Cybersecurity Advent - Day 05",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>encrypt everything</strong></p>\n<p>Encryption seems like a scary topic to a lot of people; and if you get into the weeds of the algorithms used and salts and hashes ... it certainly can be. But for most people in everyday life, encryption boils down to <strong>securing data or information with a password</strong>; something everybody should already be familiar with.</p>\n<p>Rather than try to espouse the benefits of encryption and debate the pros and cons, let me just say that encryption keeps data at rest protected. If you're storing unencrypted files in the cloud, and a hacker gets those files, they have all that information. If those same files are encrypted, you've made it exponentially harder for the hacker to get the information in those files.</p>\n<p>In the interest of keeping this a \"tip\" rather than an essay, and so I don't take the thunder out of any potential future \"tips\" in this series, let me touch on some things you can do to encrypt your local storage and devices using built-in tools.</p>\n<p><strong>Windows</strong></p>\n<ul>\n<li>Certain versions of Windows contain Bitlocker full disk encryption; if you have this available to you ... USE IT; if not, consider upgrading to a higher version of Windows or using a third-party encryption tool</li>\n</ul>\n<p><strong>Mac OS X&nbsp;</strong></p>\n<ul>\n<li>FileVault full disk encryption is available in&nbsp;<strong>System Preferences -&gt; Security &amp; Privacy -&gt; FileVault</strong></li>\n</ul>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Encryption can be enabled in&nbsp;<strong>Settings -&gt; Security &amp; Location -&gt; Encryption &amp; Credentials</strong></li>\n</ul>\n<p><strong>iOS</strong></p>\n<ul>\n<li>Encryption is enabled by default when you have a passcode enabled ... so <strong>make sure you have a passcode setup</strong></li>\n</ul>\n<p>Please note&nbsp;that encrypting your hard drive can potentially slow down your system since it's decrypting files or drives before use. However, most modern devices are fast enough to compensate and you would only notice this on older, slower devices anyway. Also note, I didn't mention encrypted containers or third-party encryption applications like VeraCrypt, Symantec Drive Encryption, etc. These have the same effect, but aren't integrated into the operating system, so are potentially less secure&nbsp;... but also have their valid uses.&nbsp;If you want more information about these tools, ask below.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/39/advent-05.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-05T09:00:00-05:00",
+            "date_modified": "2017-12-05T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
             "title": "Cybersecurity Advent - Day 04",
@@ -73,7 +88,7 @@
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/37\">Day 03</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/38\">Day 04</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/37\">Day 03</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/38\">Day 04</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/39\">Day 05</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -82,7 +97,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-03T15:30:01-05:00"
+            "date_modified": "2017-12-04T22:28:41-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/old-skool/",
@@ -147,20 +162,6 @@
             ],
             "date_published": "2017-10-19T09:41:54-04:00",
             "date_modified": "2017-11-12T15:00:21-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/devoured-by-its-own-economic-model-2/",
-            "url": "http://git.notunremarkable.me/devoured-by-its-own-economic-model-2/",
-            "title": "Devoured by its own economic model",
-            "content_html": "<p><a href=\"https://www.sbnation.com/2017/9/19/16314082/nfl-ratings-colin-kaepernick-los-angeles-rams-owners-money\" target=\"_blank\" rel=\"noopener noreferrer\">This is actually a great article over at SBNation</a>&nbsp;which is more about economics than the NFL and Football.</p>\n<p><strong>TL;DR</strong> - NFL franchises have become experts at \"squeezing every profitable dollar, and trimming every wasteful one from the budget\" making their teams more of an investment property that can coast on TV revenues. They're able to get others to pay for their stadiums too! They're masters of putting in just enough effort to keep fans interested in their team without having to actually produce anything good.</p>\n<p>I feel like I'm seeing that trend in a lot of industries lately. Rush to the top, edging out every other competitor along the way ... then just coast along, sucking in the (almighty) profits.</p>\n<p>And yet we, the consumers, continue to let them get away with it. \"I've been an <em><em>insert your team here</em></em> fan my whole life ... I can't possibly support another team.\" Or, \"I've been using products by <em><em>insert favorite company here</em></em> forever.\" And so on. Often times it's just easier to purchase one product over another, or go to one restaurant chain instead of another. I dunno ... there's no real \"solution\" that I know of ... I just thought it was a very astute article written about one subject that can be applied to others.</p>\n<p><em>#ramblingoldfool</em></p>",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "World"
-            ],
-            "date_published": "2017-09-24T11:19:58-04:00",
-            "date_modified": "2017-11-11T00:15:48-05:00"
         }
     ]
 }
