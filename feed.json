@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
+            "title": "Cybersecurity Advent - Day 04",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/38\">Cybersecurity tip</a> is:&nbsp;<strong>backup your devices</strong></p>\n<p>If you've never experienced a hard drive crash on your computer or your mobile phone completely dying and you lose everything on your device ... consider yourself lucky. We put a lot of information, time, and effort into our devices, and if we ever lose them it can potentially be catastrophic.</p>\n<p>Fortunately, it can be&nbsp;quite simple to backup your devices and your data. Unfortunately, I can't give a \"one size fits all\" solution here. I can provide you some guidelines&nbsp;and give you my personal setup though which will hopefully point you in the right direction to start backing up your computer and/or mobile device.</p>\n<p>The first thing to remember about backups is the <strong>3-2-1 rule</strong>. Have at least&nbsp;<strong>3 copies&nbsp;</strong>of your data, on&nbsp;<strong>2 media</strong> types, and keep&nbsp;<strong>1 offsite</strong> copy.</p>\n<p>How you decide to do that will depend on what you are backing up and how your system is configured.&nbsp;Here's how I handle it:</p>\n<p>My important files are stored locally in My Documents on my computer hard drive then&nbsp;synced to a cloud drive automatically. Additionally, I have an external hard drive I plug in manually at least once per week and run Windows' File System backup at that time. So, I have three copies (one local, one online, and one on an external drive) on at least two types of media (hard drives and cloud drive) and one offsite (stored on the cloud provider servers). This same setup can be reproduced in Mac OS X with any cloud drive and Time Machine.</p>\n<p>As for your mobile device ... I suggest either the cloud drive or frequent, manual backups to your computer. My photos are the only thing&nbsp;on my mobile that I fear losing;&nbsp;so I have automatic backups to Google Photos enabled (iPhotos will do the same thing on iPhone ... but with limited cloud space). In general, you need to ask yourself what you wouldn't want to lose&nbsp;and go from there.</p>\n<p>I know it can feel overwhelming, espeically if you're not doing anything at the moment.&nbsp;So try signing up for a free cloud drive (OneDrive, Google Drive, iCloud, etc.) and just copy your \"documents\" folder to that drive right&nbsp;now. Or buy a 1TB USB drive (there are lots of great holiday deals, but typically can be found for under $50) and plug it into your system and copy everything over. Do that and you're already halfway to being fully backed up!</p>\n<p>This is certainly a bigger \"tip\" than can be dealt with in this one short post. So feel free to ask specific questions in the comments and maybe I can help set you on a better path.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/38/advent-04.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-04T09:00:00-05:00",
+            "date_modified": "2017-12-04T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
             "title": "Cybersecurity Advent - Day 03",
@@ -58,7 +73,7 @@
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/37\">Day 03</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"#INTERNAL_LINK#/post/35\">Day 01</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/36\">Day 02</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/37\">Day 03</a></li>\n<li><a href=\"#INTERNAL_LINK#/post/38\">Day 04</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -67,7 +82,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-02T18:32:09-05:00"
+            "date_modified": "2017-12-03T15:30:01-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/old-skool/",
@@ -146,20 +161,6 @@
             ],
             "date_published": "2017-09-24T11:19:58-04:00",
             "date_modified": "2017-11-11T00:15:48-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/more-like-alt-wrong/",
-            "url": "http://git.notunremarkable.me/more-like-alt-wrong/",
-            "title": "More like Alt-Wrong",
-            "content_html": "<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"6cu6d-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"6cu6d-0-0\"><span data-offset-key=\"6cu6d-0-0\">I'm a generally amicable person. I don't hold grudges well, I'm friendly, I <em>try</em>&nbsp;to look at both sides of an issue objectively. What I'm trying to say is that I feel like I'm a pretty even-keeled person.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"8jlgl-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"8jlgl-0-0\"><span data-offset-key=\"8jlgl-0-0\">&nbsp;</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"22ni0-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"22ni0-0-0\"><span data-offset-key=\"22ni0-0-0\">But there is one thing that melts my cheese ... racial supremacists. The actions they take and the rights they think they have to incite violence all in the name of their message is beyond horrible. </span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"7gle6-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"7gle6-0-0\"><span data-offset-key=\"7gle6-0-0\">&nbsp;</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"11omi-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"11omi-0-0\"><span data-offset-key=\"11omi-0-0\">Not once have I ever heard a rational, well thought argument for racial cleansing and/or nationalism. Never. It's not possible. </span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"70mt8-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"70mt8-0-0\"><span data-offset-key=\"70mt8-0-0\">&nbsp;</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"1pug3\" data-offset-key=\"dsupv-0-0\">\n<div class=\"_1mf _1mj\" data-offset-key=\"dsupv-0-0\"><span data-offset-key=\"dsupv-0-0\">This piece in the New York Times, \"<a href=\"https://www.nytimes.com/2017/09/19/opinion/alt-right-white-supremacy-undercover.html\" target=\"_blank\" rel=\"noopener noreferrer\">Undercover with the Alt-Right</a>\" is frightening. It's good to read, but also leaves me feeling a little scared and hopeless. They <strong>sound</strong> so organized and there are enough uninformed and bigoted people in the world that their messages are getting some traction. How do we combat this? Anger and yelling just fuels their message.&nbsp;</span></div>\n</div>\n<div data-offset-key=\"dsupv-0-0\">&nbsp;</div>\n<div data-offset-key=\"dsupv-0-0\">Once I've regained some of my mental fortitude, maybe I'll read the <a href=\"https://alternativeright.hopenothate.com/\" target=\"_blank\" rel=\"noopener noreferrer\">actual report from Hope Not Hate</a>. Oof.</div>",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Reason"
-            ],
-            "date_published": "2017-09-21T08:15:49-04:00",
-            "date_modified": "2017-11-11T00:16:03-05:00"
         }
     ]
 }
