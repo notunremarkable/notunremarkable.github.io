@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>notunremarkable</title>
+    <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
+    <link href="http://git.notunremarkable.me" />
+    <updated>2017-12-05T09:09:41-05:00</updated>
+    <author>
+        <name>Teejay</name>
+    </author>
+    <id>http://git.notunremarkable.me</id>
+
+    <entry>
+        <title>Cybersecurity Advent - Day 05</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-05/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-05/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-05T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/39/advent-05.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is:&nbsp;<strong>encrypt everything</strong></p>
+<p>Encryption seems like a scary topic to a lot of people; and if you get into the weeds of the algorithms used and salts and hashes ... it certainly can be. But for most people in everyday life, encryption boils down to <strong>securing data or information with a password</strong>; something everybody should already be familiar with.</p>
+<p>Rather than try to espouse the benefits of encryption and debate the pros and cons, let me just say that encryption keeps data at rest protected. If you're storing unencrypted files in the cloud, and a hacker gets those files, they have all that information. If those same files are encrypted, you've made it exponentially harder for the hacker to get the information in those files.</p>
+<p>In the interest of keeping this a "tip" rather than an essay, and so I don't take the thunder out of any potential future "tips" in this series, let me touch on some things you can do to encrypt your local storage and devices using built-in tools.</p>
+<p><strong>Windows</strong></p>
+<ul>
+<li>Certain versions of Windows contain Bitlocker full disk encryption; if you have this available to you ... USE IT; if not, consider upgrading to a higher version of Windows or using a third-party encryption tool</li>
+</ul>
+<p><strong>Mac OS X&nbsp;</strong></p>
+<ul>
+<li>FileVault full disk encryption is available in&nbsp;<strong>System Preferences -&gt; Security &amp; Privacy -&gt; FileVault</strong></li>
+</ul>
+<p><strong>Android O</strong></p>
+<ul>
+<li>Encryption can be enabled in&nbsp;<strong>Settings -&gt; Security &amp; Location -&gt; Encryption &amp; Credentials</strong></li>
+</ul>
+<p><strong>iOS</strong></p>
+<ul>
+<li>Encryption is enabled by default when you have a passcode enabled ... so <strong>make sure you have a passcode setup</strong></li>
+</ul>
+<p>Please note&nbsp;that encrypting your hard drive can potentially slow down your system since it's decrypting files or drives before use. However, most modern devices are fast enough to compensate and you would only notice this on older, slower devices anyway. Also note, I didn't mention encrypted containers or third-party encryption applications like VeraCrypt, Symantec Drive Encryption, etc. These have the same effect, but aren't integrated into the operating system, so are potentially less secure&nbsp;... but also have their valid uses.&nbsp;If you want more information about these tools, ask below.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity Advent - Day 04</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-04/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-04/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-04T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/38/advent-04.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/38">Cybersecurity tip</a> is:&nbsp;<strong>backup your devices</strong></p>
+<p>If you've never experienced a hard drive crash on your computer or your mobile phone completely dying and you lose everything on your device ... consider yourself lucky. We put a lot of information, time, and effort into our devices, and if we ever lose them it can potentially be catastrophic.</p>
+<p>Fortunately, it can be&nbsp;quite simple to backup your devices and your data. Unfortunately, I can't give a "one size fits all" solution here. I can provide you some guidelines&nbsp;and give you my personal setup though which will hopefully point you in the right direction to start backing up your computer and/or mobile device.</p>
+<p>The first thing to remember about backups is the <strong>3-2-1 rule</strong>. Have at least&nbsp;<strong>3 copies&nbsp;</strong>of your data, on&nbsp;<strong>2 media</strong> types, and keep&nbsp;<strong>1 offsite</strong> copy.</p>
+<p>How you decide to do that will depend on what you are backing up and how your system is configured.&nbsp;Here's how I handle it:</p>
+<p>My important files are stored locally in My Documents on my computer hard drive then&nbsp;synced to a cloud drive automatically. Additionally, I have an external hard drive I plug in manually at least once per week and run Windows' File System backup at that time. So, I have three copies (one local, one online, and one on an external drive) on at least two types of media (hard drives and cloud drive) and one offsite (stored on the cloud provider servers). This same setup can be reproduced in Mac OS X with any cloud drive and Time Machine.</p>
+<p>As for your mobile device ... I suggest either the cloud drive or frequent, manual backups to your computer. My photos are the only thing&nbsp;on my mobile that I fear losing;&nbsp;so I have automatic backups to Google Photos enabled (iPhotos will do the same thing on iPhone ... but with limited cloud space). In general, you need to ask yourself what you wouldn't want to lose&nbsp;and go from there.</p>
+<p>I know it can feel overwhelming, espeically if you're not doing anything at the moment.&nbsp;So try signing up for a free cloud drive (OneDrive, Google Drive, iCloud, etc.) and just copy your "documents" folder to that drive right&nbsp;now. Or buy a 1TB USB drive (there are lots of great holiday deals, but typically can be found for under $50) and plug it into your system and copy everything over. Do that and you're already halfway to being fully backed up!</p>
+<p>This is certainly a bigger "tip" than can be dealt with in this one short post. So feel free to ask specific questions in the comments and maybe I can help set you on a better path.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity Advent - Day 03</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-03/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-03/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-03T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/37/advent-03.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>review your computer's privacy settings</strong></p>
+<p>It's no secret that companies gather information about their customers. The problem is when we don't pay attention and let them gather everything about us and our habits. While their service may be great, and their intentions innocent, if they've got that information then somebody with not-so-innocent intentions can get that information; you have no control over how well those companies protect your information.&nbsp;</p>
+<p>While it is easier than ever before to gather private information about people, it's also fairly easy to restrict that information (location, contacts, etc.). It might not be possible to restrict some information, depending on the device or application. In fact, restricting some information actually breaks the intended use of the application (imagine trying to use your Maps app without granting it location use ... possible, but not as intended). Therefore, it's worth taking 15 minutes or so to review your privacty settings to make sure you're comfortable with the amount of information you're sharing.</p>
+<p>Here's how to do that on the more&nbsp;popular platforms:</p>
+<p><strong>Windows 10</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> and there are several menus worth of information to review&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Mac OS X High Sierra</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Security &amp; Privacy -&gt; Privacy</strong> to review all your privacy settings</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Android O</strong></p>
+<ul>
+<li>First you'll want to check your Google privacy settings by visiting&nbsp;<strong>Settings -&gt; Google -&gt; Personal Info &amp; Privacy</strong> or visiting&nbsp;<a href="https://myaccount.google.com">https://myaccount.google.com</a>&nbsp;in a browser while signed in with your Google account</li>
+<li>Then you'll want to check&nbsp;<em>App</em>&nbsp;settings by visiting&nbsp;<strong>Settings -&gt; Apps &amp; Notifications -&gt; App permissions</strong> to review which apps have phone, camera, location, etc. permissions</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>iOS 11</strong></p>
+<ul>
+<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> to review all your privacy settings</li>
+</ul>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity Advent - Day 02</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-02/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-02/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-02T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/36/advent-02.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>use anti-virus and anti-malware</strong><br><br>Adding another layer of security is installing an anti-virus <em>AND</em> an anti-malware program on your computer <em>AND</em> your phone. Macs, Windows, iPhones, Androids &hellip; all of them&nbsp;are&nbsp;potentially vulnerable. Also, no single anti-virus program can catch everything, but something is better than nothing. Plus, there are so many free options available, it's almost sinful not to install one.<br><br>So, what's the difference between anti-virus and anti-malware? A Virus is&nbsp;a specific type of malware designed to spread (like a biological virus). Malware is the general term for anything bad that gets installed on your device (spyware, adware, viruses, trojans, etc.). You're probably asking why you would need two programs installed if anti-malware includes anti-virus capabilities. There are two reasons &hellip;<br><br>First, no single provider can catch everything. Every provider of anti-virus or anti-malware software handles scanning and detection in a different way. By having two different pieces of software installed, you're adding another layer of protection.<br><br>Second,&nbsp;anti-virus tools typically run all the time, scanning files and your computer on a regular basis. Anti-malware tools typically run on-demand, when you want to check something specific. <br><br>So, do yourself a favor and find a decent anti-virus and anti-malware program. I currently use <a href="https://www.avg.com/en-us/free-antivirus-download" target="_blank" rel="noopener noreferrer">AVG </a>for Anti-virus (for Windows and Android) and <a href="https://www.malwarebytes.com/">Malwarebytes </a>for anti-malware. There are plenty of both anti-virus and anti-malware options available though.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity Advent - Day 01</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-01/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-01/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-02T00:38:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/35/advent-01.jpg" alt="" />
+                Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>
+<ul>
+<li><em>Operating system&nbsp;</em>updates are done through <strong style="font-size: inherit;">Settings -&gt; Update &amp; Security</strong><span style="font-size: inherit;"> and just verify your settings (active hours, restart options, etc)</span></li>
+<li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure "Update apps automatically" is turned on</li>
+<li><em>Apps downloaded manually</em> will need to be updated through the settings in those apps</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Mac OS X High Sierra</strong></p>
+<ul>
+<li>Both <em>Operating System</em> and <em>app</em> updates are done through <strong>System Preferences -&gt; App Store</strong> and make sure "Automatically check for updates" (with appropriate preferences) is checked</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Android O</strong></p>
+<ul>
+<li><em>Operating System&nbsp;</em>automatic updates are enabled by default, but you can verify by going to <strong>System -&gt; System update</strong> to see the last date and time the phone checked</li>
+<li>To make sure your <em>apps</em> are updated, visit&nbsp;<strong>Play Store -&gt; Settings -&gt; Auto-update apps</strong> and select the appropriate choice (wifi only or at any time)</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>iOS 11</strong></p>
+<ul>
+<li><em>Operating System</em> updates are in <strong>Settings -&gt; General -&gt; Software Update</strong>; these are automatically enabled, but you can verify here</li>
+<li><em>App</em> updates are enabled in <strong>Settings -&gt; iTunes &amp; App Stores</strong> and toggle "Updates" to on</li>
+</ul>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cybersecurity Advent Calendar</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-intro/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-04T22:28:41-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg" alt="" />
+                <p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the "advent" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong>&nbsp;a way to gain access, but we have to make them not want to gain access. There&nbsp;is no single solution&nbsp;to online and computer security.&nbsp;<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>
+<p>The calendar:</p>
+<ul>
+<li><a href="#INTERNAL_LINK#/post/35">Day 01</a></li>
+<li><a href="#INTERNAL_LINK#/post/36">Day 02</a></li>
+<li><a href="#INTERNAL_LINK#/post/37">Day 03</a></li>
+<li><a href="#INTERNAL_LINK#/post/38">Day 04</a></li>
+<li><a href="#INTERNAL_LINK#/post/39">Day 05</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Old Skool </title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/old-skool/"/>
+        <id>http://git.notunremarkable.me/old-skool/</id>
+            <category term="Misc"/>
+            <category term="Links"/>
+
+        <updated>2017-11-06T20:28:43-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-post-oldskool.jpeg" alt="" />
+                <p>Ran across some fun little images that somebody posted. These instantly transported me to my childhood ... anybody else?</p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-01.jpg" alt="" width="640" height="480"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-02.jpg" alt="" width="640" height="536"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-03.jpg" alt="" width="640" height="616"></p>
+<p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-04.jpg" alt="" width="640" height="480"></p>
+<p>source (plus more images): <a href="https://imgur.com/gallery/tBJ0c" target="_blank" rel="noopener noreferrer">https://imgur.com/gallery/tBJ0c</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The one in which I test everything</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/the-one-in-which-i-test-everything/"/>
+        <id>http://git.notunremarkable.me/the-one-in-which-i-test-everything/</id>
+            <category term="Design"/>
+            <category term="Blogging"/>
+
+        <updated>2017-11-06T19:51:57-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/2/2017-11-05-post-testing.jpg" alt="" />
+                <h2>Testing Everything</h2>
+<p>I want to look at the features of Publii and see how well the WYSIWYG editor works (until I can figure out how/if to use <strong>Markdown</strong>).</p>
+<blockquote>
+<p>Humankind. Be both.</p>
+</blockquote>
+<p>That's a blockquote ... in case&nbsp;<em>you</em> can't <span style="text-decoration: line-through;">figure it out</span> tell.&nbsp;</p>
+<p class="align-center">Center aligned ... obvi.</p>
+
+<p class="align-left">Reasons I'm liking this so far:</p>
+<ul>
+<li>Keeps all my files local</li>
+<li>Easy to setup and use</li>
+<li>Fun to tinker (but works right out of the box so you don't have to)</li>
+</ul>
+<p><img class="align-center" src="http://git.notunremarkable.me/media/posts/2/be-a-fruit-loop.jpg" alt="Fruit Loop" width="236" height="295"></p>
+<p>Images are easy to upload ... I'll have to see where it stores them and how it looks in the post.</p>
+<hr>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/cOMSIlsA9o0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>I recently re-signed up for a Todoist subscription. The free version works and has plenty of features, but I want the filters and labels ... which means I pay for the premium. This dude has a lot of great videos on how to get the most out of Todoist too.</p>
+<p>OK, there are a lot of great features. I found in the settings where I was able to change the local location of the files/site too. So now it's sitting in my OneDrive local folder and will get backed up to the cloud as my backup. <em><strong>W00T!</strong></em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Publii and Github pages</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/publii-and-github-pages/"/>
+        <id>http://git.notunremarkable.me/publii-and-github-pages/</id>
+            <category term="Technical"/>
+            <category term="Blogging"/>
+
+        <updated>2017-11-06T19:52:21-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/1/2017-11-05-post-github.jpg" alt="" />
+                <p>I have been reading about the comeback of static blog sites. During the course of my research, I thought it might be more inline with the way I like to blog and do things. My current content management system (CMS) is Wordpress. It has a lot of features, thousands of plugins to extend functionality, and even more themes (paid and free). There is a thriving Wordpress community, so it's very easy to get up and running ... literally click a button to install in some instances.</p>
+<p>At any rate, it's practical but not *fun* for me. I'm a tinkerer and like to know how things work. I've also been working with straight HTML for hundreds of years ... well, that's how it feels sometimes; so there's a familiarity and comfort level I like.</p>
+<p>So a static site generator (SSG) basically is a framework that helps you create a whole site of static pages. It will build the "home page" with the list of posts, track tags, authors, etc. It's usually easier to theme as well. I tried using Pelican, a Python based framework; but had some issues in Windows. For the sake of time, I started searching for other options rather than troubleshoot more (which I may still go back and do eventually).</p>
+<p>Enter <a href="https://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>. It's a downloadable tool with a GUI that helps you manage your whole site (or sites). I've connected it to Github pages to host for free and am now testing it out. So let's see how this goes! In all honesty, I was hoping for a Markdown editor, just because I like that sort of thing, but this is very nice and easy so far ... we'll see.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>4in44</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/4in44/"/>
+        <id>http://git.notunremarkable.me/4in44/</id>
+            <category term="Technical"/>
+            <category term="Blogging"/>
+
+        <updated>2017-11-12T15:00:21-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/33/featured-photo.png" alt="" />
+                <p>Back in 2015 I tried a "<a href="http://2015-365.notunremarkable.me/archive" target="_blank" rel="noopener noreferrer">Project 365</a>" in which I would post a picture each day. I didn't really have a theme, per se. Some days I posted something I'd done that day, other days it was completely random. My goal was just to post a picture every day so I'd have something to look back on. Guess what? I haven't really touched it since then.</p>
+<p>Last year, on my 44<span style="vertical-align: super;">th</span> birthday, for some reason I decided to try it again. But this time I upped the stakes and decided to post <span style="font-weight: bold;">four</span> pictures each day (hence the <em>4in44</em> tag &hellip; get it now?). A Project 365 can be a time consuming and difficult task sometimes; which is apparent when you look at some of my posts in which I clearly struggled to find things to photograph. But it is an interesting and fun thing to do and I recommend people try it sometime!</p>
+<p>At any rate, this post isn't meant to dwell on the merits (or demerits) of a <a href="https://petapixel.com/2016/12/23/365-photo-project-without-failing/" target="_blank" rel="noopener noreferrer">Project 365</a>. Instead, I wanted to focus on how <span style="font-weight: bold;"><em>I</em></span> did it. Hopefully you'll see that once you've got everything setup, all you really need to do is take the pictures.</p>
+<p>Things you'll need:</p>
+<ol>
+<li>Camera or phone with a decent camera - I used an LG G4, iPhone 5, and finally my Pixel XL (we switched carriers last year and my phone was on backorder)</li>
+<li>A place to post the pictures - I used Instagram and Tumblr</li>
+</ol>
+<p><span style="font-weight: bold;"><strong>Instagram</strong></span><br> <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a> allows you to post single and multiple pictures per post. They also have several apps you can install separately which extend the Instagram functionality. I used their "<a href="https://play.google.com/store/apps/details?id=com.instagram.layout&amp;hl=en" target="_blank" rel="noopener noreferrer">Layout</a>" app which lets you post a single picture collage with up to nine pictures in one collage. For my Project 365, I opted for four photos per day.</p>
+<p>Regardless of which option you choose, I recommend you pick a tag that is unique and will allow you to easily find all your photos in the Instagram app. Plus, it's catchy and sets your pictures apart &hellip; a little.</p>
+<p>You could certainly stop there. In fact, that's one of the easiest ways to participate in Project 365. I took it one step further so that I would easily be able to look back at my "year". Plus, Instagram made it super easy &hellip; just one more tap each day &hellip; to post my picture collage to my Tumblr site. You'll have to link your Instagram and Tumblr accounts, but let's get you setup on Tumblr first.</p>
+<p><span style="font-weight: bold;"><strong>Tumblr</strong></span><br> If you already have a <a href="https://www.tumblr.com" target="_blank" rel="noopener noreferrer">Tumblr</a> account that you use regularly, I recommend you setup a new Tumblr account specifically for this project. Instagram will only post to your <span style="font-weight: bold;">main</span> Tumblr blog. Tumblr lets you setup multiple blogs, but (as of this post) there is no way to select which Tumblr blog to which you post. So &hellip; a new account is best and easiest IF you want to keep your Project 365 separate from your main blog.</p>
+<p>Once you've got your account setup, you'll jump back to Instagram and connect your account. If you setup Tumblr with multi-factor authentication (which I <span style="font-weight: bold;">ALWAYS</span> recommend you do whenever you can), you'll need to generate an "application password" in Tumblr. This is a one-time password that will only work to setup this connection.</p>
+<p>Here are the steps on Android to connect Tumblr to Instagram (it may differ on other platforms):</p>
+<ol>
+<li>Visit your profile and hit the menu icon (vertical ellipsis)<br> <img class="alignnone size-medium wp-image-140" src="http://git.notunremarkable.me/media/posts/33/instagram-01-169x300.png" width="169" height="300"></li>
+<li>Then tap "linked accounts"<br> <img class="alignnone size-medium wp-image-141" src="http://git.notunremarkable.me/media/posts/33/instagram-02-169x300.png" width="169" height="300"></li>
+<li>Then tap "Tumblr"<br> <img class="alignnone size-medium wp-image-142" src="http://git.notunremarkable.me/media/posts/33/instagram-03-169x300.png" width="169" height="300"></li>
+<li>Next, enter your Tumblr credentials; remember to use the "application password" you create in Tumblr for multi-factor authentication<br> <img class="alignnone size-medium wp-image-143" src="http://git.notunremarkable.me/media/posts/33/instagram-04-169x300.png" width="169" height="300"><br> <em>Note: I also recommend you UNCHECK "follow blog.instagram.com" unless you really want to follow them on Tumblr</em></li>
+</ol>
+<p>That's it, now you've connected Instagram to Tumblr. The next time you post a photo in Instagram, make sure you select to also post to Tumblr:<br> <img class="alignnone size-medium wp-image-144" src="http://git.notunremarkable.me/media/posts/33/instagram-05-169x300.png" width="169" height="300"></p>
+<p>And then you'll see your photo on your Tumblr blog!<br> <img class="alignnone size-medium wp-image-145" src="http://git.notunremarkable.me/media/posts/33/tumblr-success-final-300x230.png" width="300" height="230"></p>
+<p>So, if you decide to use this route or not ... I would love to see your Project 365. Please share your links below! Also, if you care, <a href="http://44.notunremarkable.me/archive" target="_blank" rel="noopener noreferrer">here's the full 4in44 archive of photos</a> from my 44th year on this planet.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
