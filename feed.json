@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
+            "title": "Cybersecurity Advent - Day 08",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>change your passwords</strong></p>\n<p>Ideally you've chosen and setup a <a href=\"#INTERNAL_LINK#/post/41\">password manager</a>. If not, this part will not be as easy ... but still necessary. Changing your passwords&nbsp;will also be a time consuming process but&nbsp;one that should be ongoing in your life.</p>\n<p>As stated previously, the old school of thought was that you should change your password fairly frequently, like every 90 days. New wisdom says only change your password when there's been evidence of a breach of login information. I'm a little more conservative and don't see the harm in changing your passwords annually ... especially if you're using a password manager; it will do all the heavy lifting for you! I feel annually strikes a good balance and minimizes data loss in case of a breach.</p>\n<p>If you do use a&nbsp;password manager, it can generate a password with any parameters you give it. I recommend 16-20 characters (or more if the site supports it) and a mix of as many different types of characters as possible. If you have the option to&nbsp;<strong>not</strong> use dictionary or pronouncable words, I suggest you do&nbsp;that too just for an extra layer of security. Again, the point is to have ridiculously hard passwords to guess, and let your password manager remember it for you. Try to manually remember <strong>iJBblxg6@%Ur95VNj0uz</strong> for just one site and now think about&nbsp;how many sites with which you actually have an account.&nbsp;<em>Just don't forget your master password!</em></p>\n<p>If you're not using a password manager, then try to stick with memorable passphrases or even just use three random words that you'll remember. Most sites allow all ASCII characters, even spaces, so&nbsp;<strong>round blue bananas</strong> would be a valid password and easier to remember than the password generated <strong>iJBblxg6@%Ur95VNj0uz</strong>. Of course, it likely won't meet the password requirements of most sites ... so you'll have to mix it up a little and&nbsp;<em>still</em> remember it.</p>\n<p>Also important, use a different password/passphrase for every site or service with which you have an account (which is <em>very</em> easy to do with a password generator ... are you seeing a theme yet?). For example, if your credentials are stolen in a data breach at&nbsp;Uber.com, <em>hypothetically,</em>&nbsp;and you reused that&nbsp;password everywhere, then the hackers potentially have your login information for every site you visit. Use a different password everywhere (or one master password for your password generator ... okay I'll stop now)!</p>\n<p>Now you know how to make a good password; so&nbsp;get out there and do it. In my opinion, you should make a habit of changing your password every year on every site you visit. Put it in your calendar and then just try to break it up over the course of a week or so. Make the effort to visit 5-10 of your sites per day and change your account passwords. It shouldn't take more than 15 minutes to go through that many&nbsp;sites, so you won't spend more than a couple hours over the course of one week per year. That's a pretty small investment to help keep your digital data secure.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/42/advent-08.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-08T09:00:00-05:00",
+            "date_modified": "2017-12-08T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-07/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-07/",
             "title": "Cybersecurity Advent - Day 07",
@@ -118,7 +133,7 @@
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong> a way to gain access, but we have to make them not want to gain access. There is no single solution to online and computer security.<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-01\">Day 01</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-02\">Day 02</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-03\">Day 03</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-04\">Day 04</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-05\">Day 05</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-06\">Day 06</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-07\">Day 07</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong> a way to gain access, but we have to make them not want to gain access. There is no single solution to online and computer security.<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-01\">Day 01</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-02\">Day 02</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-03\">Day 03</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-04\">Day 04</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-05\">Day 05</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-06\">Day 06</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-07\">Day 07</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-08\">Day 08</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -127,7 +142,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-06T16:37:57-05:00"
+            "date_modified": "2017-12-08T08:59:04-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/old-skool/",
@@ -144,22 +159,6 @@
             ],
             "date_published": "2017-11-06T20:27:47-05:00",
             "date_modified": "2017-11-06T20:28:43-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/the-one-in-which-i-test-everything/",
-            "url": "http://git.notunremarkable.me/the-one-in-which-i-test-everything/",
-            "title": "The one in which I test everything",
-            "content_html": "<h2>Testing Everything</h2>\n<p>I want to look at the features of Publii and see how well the WYSIWYG editor works (until I can figure out how/if to use <strong>Markdown</strong>).</p>\n<blockquote>\n<p>Humankind. Be both.</p>\n</blockquote>\n<p>That's a blockquote ... in case&nbsp;<em>you</em> can't <span style=\"text-decoration: line-through;\">figure it out</span> tell.&nbsp;</p>\n<p class=\"align-center\">Center aligned ... obvi.</p>\n\n<p class=\"align-left\">Reasons I'm liking this so far:</p>\n<ul>\n<li>Keeps all my files local</li>\n<li>Easy to setup and use</li>\n<li>Fun to tinker (but works right out of the box so you don't have to)</li>\n</ul>\n<p><img class=\"align-center\" src=\"http://git.notunremarkable.me/media/posts/2/be-a-fruit-loop.jpg\" alt=\"Fruit Loop\" width=\"236\" height=\"295\"></p>\n<p>Images are easy to upload ... I'll have to see where it stores them and how it looks in the post.</p>\n<hr>\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cOMSIlsA9o0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>I recently re-signed up for a Todoist subscription. The free version works and has plenty of features, but I want the filters and labels ... which means I pay for the premium. This dude has a lot of great videos on how to get the most out of Todoist too.</p>\n<p>OK, there are a lot of great features. I found in the settings where I was able to change the local location of the files/site too. So now it's sitting in my OneDrive local folder and will get backed up to the cloud as my backup. <em><strong>W00T!</strong></em></p>",
-            "image": "http://git.notunremarkable.me/media/posts/2/2017-11-05-post-testing.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Design",
-                   "Blogging"
-            ],
-            "date_published": "2017-11-05T12:25:25-05:00",
-            "date_modified": "2017-11-06T19:51:57-05:00"
         }
     ]
 }

@@ -3,12 +3,37 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-07T09:51:25-05:00</updated>
+    <updated>2017-12-08T08:59:16-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 08</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-08/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-08/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-08T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/42/advent-08.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is:&nbsp;<strong>change your passwords</strong></p>
+<p>Ideally you've chosen and setup a <a href="#INTERNAL_LINK#/post/41">password manager</a>. If not, this part will not be as easy ... but still necessary. Changing your passwords&nbsp;will also be a time consuming process but&nbsp;one that should be ongoing in your life.</p>
+<p>As stated previously, the old school of thought was that you should change your password fairly frequently, like every 90 days. New wisdom says only change your password when there's been evidence of a breach of login information. I'm a little more conservative and don't see the harm in changing your passwords annually ... especially if you're using a password manager; it will do all the heavy lifting for you! I feel annually strikes a good balance and minimizes data loss in case of a breach.</p>
+<p>If you do use a&nbsp;password manager, it can generate a password with any parameters you give it. I recommend 16-20 characters (or more if the site supports it) and a mix of as many different types of characters as possible. If you have the option to&nbsp;<strong>not</strong> use dictionary or pronouncable words, I suggest you do&nbsp;that too just for an extra layer of security. Again, the point is to have ridiculously hard passwords to guess, and let your password manager remember it for you. Try to manually remember <strong>iJBblxg6@%Ur95VNj0uz</strong> for just one site and now think about&nbsp;how many sites with which you actually have an account.&nbsp;<em>Just don't forget your master password!</em></p>
+<p>If you're not using a password manager, then try to stick with memorable passphrases or even just use three random words that you'll remember. Most sites allow all ASCII characters, even spaces, so&nbsp;<strong>round blue bananas</strong> would be a valid password and easier to remember than the password generated <strong>iJBblxg6@%Ur95VNj0uz</strong>. Of course, it likely won't meet the password requirements of most sites ... so you'll have to mix it up a little and&nbsp;<em>still</em> remember it.</p>
+<p>Also important, use a different password/passphrase for every site or service with which you have an account (which is <em>very</em> easy to do with a password generator ... are you seeing a theme yet?). For example, if your credentials are stolen in a data breach at&nbsp;Uber.com, <em>hypothetically,</em>&nbsp;and you reused that&nbsp;password everywhere, then the hackers potentially have your login information for every site you visit. Use a different password everywhere (or one master password for your password generator ... okay I'll stop now)!</p>
+<p>Now you know how to make a good password; so&nbsp;get out there and do it. In my opinion, you should make a habit of changing your password every year on every site you visit. Put it in your calendar and then just try to break it up over the course of a week or so. Make the effort to visit 5-10 of your sites per day and change your account passwords. It shouldn't take more than 15 minutes to go through that many&nbsp;sites, so you won't spend more than a couple hours over the course of one week per year. That's a pretty small investment to help keep your digital data secure.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 07</title>
         <author>
@@ -242,7 +267,7 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-intro/</id>
             <category term="Security"/>
 
-        <updated>2017-12-06T16:37:57-05:00</updated>
+        <updated>2017-12-08T08:59:04-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -257,6 +282,7 @@
 <li><a href="../../../../../../../../../cybersecurity-advent-day-05">Day 05</a></li>
 <li><a href="../../../../../../../../../cybersecurity-advent-day-06">Day 06</a></li>
 <li><a href="../../../../../../../../../cybersecurity-advent-day-07">Day 07</a></li>
+<li><a href="../../../../../../../../../cybersecurity-advent-day-08">Day 08</a></li>
 </ul>
             ]]>
         </content>
@@ -282,44 +308,6 @@
 <p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-03.jpg" alt="" width="640" height="616"></p>
 <p><img src="http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-04.jpg" alt="" width="640" height="480"></p>
 <p>source (plus more images): <a href="https://imgur.com/gallery/tBJ0c" target="_blank" rel="noopener noreferrer">https://imgur.com/gallery/tBJ0c</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The one in which I test everything</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/the-one-in-which-i-test-everything/"/>
-        <id>http://git.notunremarkable.me/the-one-in-which-i-test-everything/</id>
-            <category term="Design"/>
-            <category term="Blogging"/>
-
-        <updated>2017-11-06T19:51:57-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/2/2017-11-05-post-testing.jpg" alt="" />
-                <h2>Testing Everything</h2>
-<p>I want to look at the features of Publii and see how well the WYSIWYG editor works (until I can figure out how/if to use <strong>Markdown</strong>).</p>
-<blockquote>
-<p>Humankind. Be both.</p>
-</blockquote>
-<p>That's a blockquote ... in case&nbsp;<em>you</em> can't <span style="text-decoration: line-through;">figure it out</span> tell.&nbsp;</p>
-<p class="align-center">Center aligned ... obvi.</p>
-
-<p class="align-left">Reasons I'm liking this so far:</p>
-<ul>
-<li>Keeps all my files local</li>
-<li>Easy to setup and use</li>
-<li>Fun to tinker (but works right out of the box so you don't have to)</li>
-</ul>
-<p><img class="align-center" src="http://git.notunremarkable.me/media/posts/2/be-a-fruit-loop.jpg" alt="Fruit Loop" width="236" height="295"></p>
-<p>Images are easy to upload ... I'll have to see where it stores them and how it looks in the post.</p>
-<hr>
-<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/cOMSIlsA9o0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>I recently re-signed up for a Todoist subscription. The free version works and has plenty of features, but I want the filters and labels ... which means I pay for the premium. This dude has a lot of great videos on how to get the most out of Todoist too.</p>
-<p>OK, there are a lot of great features. I found in the settings where I was able to change the local location of the files/site too. So now it's sitting in my OneDrive local folder and will get backed up to the cloud as my backup. <em><strong>W00T!</strong></em></p>
             ]]>
         </content>
     </entry>
