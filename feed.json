@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
+            "title": "Cybersecurity Advent - Day 09",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>secure your home wifi/router</strong></p>\n<p>If you don't have high-speed internet at home, today's tip probably won't be for you. Also, how do you survive?&nbsp;Anyway, here are some things you can do to shore up your home wifi router:</p>\n<p><strong>Change Default Password</strong>. Your Internet Service Provider (ISP) probably preset the administrator username and password. Log in (using their instructions provided) and change the password. If you have an option to change the admin username, do that too! Many times, the default username/password are universal and can be found on the internet.</p>\n<p><strong>Enable Network Encryption</strong>. In order to keep your home network traffic secure and private, you'll want to turn on WPA or (ideally) WPA2 encryption. Each router has different instructions on how to do this.</p>\n<p><strong>Change Default SSID</strong>. Your Service Set ID (SSID) is the name of your network and might be set to the manufacturer's default name. Pick a new, unique name for your network to show that you take the time to configure your network properly.</p>\n<p><strong>Disable Broadcast SSID</strong>. Now that you know the name of your network, turn off broadcast so that people can't easily find your network without knowing the name. While this doesn't necessarily protect your network, it does hide it making it a little harder to crack.</p>\n<p><strong>Advanced Options</strong>. Depending on your level of comfort, consider turning on the firewall (if it's not already) and/or enabling MAC address filtering. These steps will ensure nobody can remotely connect to your router (other than your ISP) and only devices you specify will even be able to connect to the router.</p>\n<p>You've taken huge steps in securing your home network and should be able to rest relatively easy knowing you're browsing safely.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/43/advent-09.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-09T09:00:00-05:00",
+            "date_modified": "2017-12-09T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
             "title": "Cybersecurity Advent - Day 08",
@@ -133,7 +148,7 @@
             "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
             "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong> a way to gain access, but we have to make them not want to gain access. There is no single solution to online and computer security.<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-01\">Day 01</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-02\">Day 02</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-03\">Day 03</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-04\">Day 04</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-05\">Day 05</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-06\">Day 06</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-07\">Day 07</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-08\">Day 08</a></li>\n</ul>",
+            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong> a way to gain access, but we have to make them not want to gain access. There is no single solution to online and computer security.<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-01\">Day 01</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-02\">Day 02</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-03\">Day 03</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-04\">Day 04</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-05\">Day 05</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-06\">Day 06</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-07\">Day 07</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-08\">Day 08</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-09\">Day 09</a></li>\n</ul>",
             "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
             "author": {
                 "name": "Teejay"
@@ -142,23 +157,7 @@
                    "Security"
             ],
             "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-08T08:59:04-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/old-skool/",
-            "url": "http://git.notunremarkable.me/old-skool/",
-            "title": "Old Skool ",
-            "content_html": "<p>Ran across some fun little images that somebody posted. These instantly transported me to my childhood ... anybody else?</p>\n<p><img src=\"http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-01.jpg\" alt=\"\" width=\"640\" height=\"480\"></p>\n<p><img src=\"http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-02.jpg\" alt=\"\" width=\"640\" height=\"536\"></p>\n<p><img src=\"http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-03.jpg\" alt=\"\" width=\"640\" height=\"616\"></p>\n<p><img src=\"http://git.notunremarkable.me/media/posts/3/2017-11-06-oldskool-04.jpg\" alt=\"\" width=\"640\" height=\"480\"></p>\n<p>source (plus more images): <a href=\"https://imgur.com/gallery/tBJ0c\" target=\"_blank\" rel=\"noopener noreferrer\">https://imgur.com/gallery/tBJ0c</a></p>",
-            "image": "http://git.notunremarkable.me/media/posts/3/2017-11-06-post-oldskool.jpeg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Misc",
-                   "Links"
-            ],
-            "date_published": "2017-11-06T20:27:47-05:00",
-            "date_modified": "2017-11-06T20:28:43-05:00"
+            "date_modified": "2017-12-08T22:55:05-05:00"
         }
     ]
 }
