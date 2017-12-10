@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-10/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-10/",
+            "title": "Cybersecurity Advent - Day 10",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>be careful with public wifi and hotspots</strong></p>\n<p>Of course we're all wary of public wifi, aren't we? We&nbsp;<em>never</em> just join a hotspot at a cafe because it happens to have the same name as the cafe, right?&nbsp;</p>\n<p>It takes little to no effort to setup a hotspot and advertise it to people to connect. On <em>any</em> wireless network all your traffic travels through that router or wireless access point (WAP) and can potentially be stolen. I'm not saying you can't join the cafe wifi; I'm saying be&nbsp;<em>careful</em> and pay attention before you join.&nbsp;So, in the spirit of today's tip, here are a few things to keep in mind when you're joining a public, or uncontrolled, wifi or hotspot:</p>\n<p><strong>Prefer secured wifi over unsecured</strong>. If given the option of WPA or WPA2 protected network (password required), choose that over the unsecured network.</p>\n<p><strong>Validate&nbsp;the SSID.</strong> Does the network name match the advertised name? If it's not advertised, ask somebody who works there.&nbsp;</p>\n<p><strong>Turn off \"remember this network\".</strong> You probably have \"attwifi\", \"xfinitywifi\", or \"linksys\" in your list of saved networks right now (or any host of other popular names). Anybody who sets up an unsecure wifi network with the same name will grab devices automatically. Turn it off and \"forget\" those networks right now.</p>\n<p><strong>Use a VPN.</strong> Virtual Private Networks (VPNs) encrypt your traffic from the device to the server, keeping you more secure. I'm&nbsp;<em>almost</em> positive there will be another advent tip about this soon ...</p>\n<p><strong>Don't share files.</strong> Most operating systems give you the option of turning off file sharing when joining wifi. Marking the connection as \"public\" is sometimes enough, check with your operating system to be sure.</p>\n<p><strong>Avoid certain websites.</strong> Don't do your banking, online shopping, or anything other internet activity that has deeply personal, private information.</p>\n<p><strong>Stay patched.</strong> I've covered this before, but make sure your devices have all the latest patches and updates to ensure you're not vulnerable to many known vulnerabilities (yes, even wifi has vulnerabilities).</p>\n<p><strong>Consider using your phone.</strong> If there's any doubt at all, most cell phone providers let you use your phone as a hotspot. If you don't have unlimited data, this can potentially push you over your limit. So pay attention!</p>\n<p>There are plenty of legitimate public hotspots out there, but it only takes one bad one to steal your data or plant a virus on your computer. Hopefully you're now more aware than you already were and will stay safe.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/44/advent-10.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-10T09:00:00-05:00",
+            "date_modified": "2017-12-10T09:36:36-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
             "title": "Cybersecurity Advent - Day 09",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-01T21:44:00-05:00",
             "date_modified": "2017-12-05T21:16:19-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-intro/",
-            "title": "Cybersecurity Advent Calendar",
-            "content_html": "<p>Starting on Friday, December 1, I'm going to post a series of security tips to help people learn to keep themselves safe on their computers, on their phones, and online.<br><br>While I'm using the \"advent\" aspect of a child's advent calendar, these aren't religious-based or meant to imply anything other than the use of a cute ploy to capture your interest and attention. <br><br>Security is no joke though and requires you to be active in the process. One doesn't leave their front door or car door unlocked and hope everything will be fine; they actively lock their doors when they leave because they know that helps keep their belongings protected. Security relies on making it more difficult for our adversaries to compromise our systems; and each thing we do adds to the complexity it takes to get into our systems or get our information. Remember that there is <strong>always</strong> a way to gain access, but we have to make them not want to gain access. There is no single solution to online and computer security.<br><br>Finally, these tips aren't anything new, they're available all over the place. My aim is to consolidate a lot of these tips and guidelines into one place, make them easy to digest, and help people learn how to be safe. I don't expect everybody to do everything. If one walks away just doing one or two new things to keep safe, then that helps.<br><br>Anyway, I hope everybody joins me for the next couple weeks and learns a thing or two along the way!<br><br>Note: I'll update this post with links to the full series along the way.</p>\n<p>The calendar:</p>\n<ul>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-01\">Day 01</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-02\">Day 02</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-03\">Day 03</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-04\">Day 04</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-05\">Day 05</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-06\">Day 06</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-07\">Day 07</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-08\">Day 08</a></li>\n<li><a href=\"../../../../../../../../../cybersecurity-advent-day-09\">Day 09</a></li>\n</ul>",
-            "image": "http://git.notunremarkable.me/media/posts/34/advent-intro.jpeg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-11-28T14:43:11-05:00",
-            "date_modified": "2017-12-08T22:55:05-05:00"
         }
     ]
 }
