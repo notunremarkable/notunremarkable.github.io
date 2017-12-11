@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-11/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-11/",
+            "title": "Cybersecurity Advent - Day 11",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: use a VPN</p>\n<p>I've already posted about the <a href=\"#INTERNAL_LINK#/post/39\">importance of encryption</a>, but that focused on your \"data at rest\"&nbsp;- your hard drives and mobile device. Today's tip is about Virtual Private Networks (VPNs) which encrypts your network traffic between your computer or mobile to the end server. You're likely already a little familiar with a form of this with Secure Sockets Layer (SSL); whenever you navigate to a website using HTTPS your traffic is encrypted between the browser and the web server.</p>\n<p>However, the benefit of a VPN is that&nbsp;<strong>all&nbsp;</strong>traffic is encrypted from your computer, not just the browser. Basically, the VPN software creates a tunnel between your computer and the VPN server and nobody else can view that traffic.&nbsp;Besides encrypting your data to keep hackers out,&nbsp;there are a couple other benefits to using a VPN.</p>\n<p>First, your data is kept private from your Internet Service Provider (ISP) and anybody else who may try to sell your data or re-route your traffic. For example, my provider Verizon sometimes redirects my traffic to their own search engine rather than my search engine of choice. While this doesn't hurt my browsing experience&nbsp;<em>in essence</em>, it's annoying that they're intercepting my traffic and trying to monetize that when I already pay them for a service.</p>\n<p>Second, you can make your computer or device appear to come from a different IP address or location. There are many reasons you might need to change your IP address or circumvent geographical network barriers, and a VPN is an easy way to do that.</p>\n<p>There are a&nbsp;<strong>lot</strong> of options when it comes to a VPN provider. There are even a lot of&nbsp;<em>free</em> VPN options available. I discourage the free services simply because they have to make their money&nbsp;<em>somewhere</em>; unless they've spelled out how they're making their money, and you're okay with it. In that case,&nbsp;it might be a good start for you. Otherwise, there are a lot of affordable services that would be much more secure.&nbsp;A few things to pay attention to&nbsp;before purchasing/choosing a VPN service:</p>\n<ul>\n<li>Pay attention to the number of servers available to which to connect&nbsp;- more servers available means more options for you</li>\n<li>Determine if geo-shifting your location is important - some services charge more for overseas or out-of-country VPN connections</li>\n<li>Consider when and where you will use your VPN - is it's an \"always on\"&nbsp;or \"on demand\" type of connection; some services restrict bandwidth or only offer limited bandwidth to begin with</li>\n<li>Will you use the VPN on your mobile device - if so, make sure the provider offers an app for your phone or tablet</li>\n<li>Ask yourself how important privacy and plausible deniability are to you - people have their own reasons for using a VPN and all providers handle logging, jurisdiction, etc</li>\n</ul>\n<p>There's a fantastic, comprehensive breakdown of almost 200 VPN providers available at <a href=\"https://thatoneprivacysite.net/vpn-comparison-chart/\" target=\"_blank\" rel=\"noopener noreferrer\">That One Privacy Site</a>. There are many more factors reviewed on there, like the provider's activism for example. It's the most thorough review site I've seen and I highly recommend you check it out!</p>\n<p>In the end, you have to&nbsp;<strong>trust</strong> the service you're using with your data; just like you currently trust your ISP with your data (or probably more). So, a little research is worth it.&nbsp;</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/45/advent-11.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-11T09:00:00-05:00",
+            "date_modified": "2017-12-11T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-10/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-10/",
             "title": "Cybersecurity Advent - Day 10",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-02T09:00:00-05:00",
             "date_modified": "2017-12-05T21:16:31-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-01/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-01/",
-            "title": "Cybersecurity Advent - Day 01",
-            "content_html": "Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is: <strong>update your devices</strong><br><br>The most effective way to stay safe is to run the latest patches and software updates on your computer and mobile devices. While we hear all the time about zero-day vulnerabilities, most exploits happen because of known vulnerabilities that have been in the wild for a while. Having the latest updates and patches will protect against the known exploits. Having automated updates enabled will help protect against zero-day vulnerabilities because you'll be updated as soon as your provider has a fix!<br><br>Fortunately, most device makers have made this process almost mindless. Your take-away today should be to check your computer and/or phone to make sure you're up-to-date AND you have automated updates enabled.<br><br>Here's how to do that on some of the more popular platforms:<br><br><strong>Windows 10</strong><br>\n<ul>\n<li><em>Operating system&nbsp;</em>updates are done through <strong style=\"font-size: inherit;\">Settings -&gt; Update &amp; Security</strong><span style=\"font-size: inherit;\"> and just verify your settings (active hours, restart options, etc)</span></li>\n<li><em>Apps downloaded through the Microsoft Store</em> are done through <strong>Microsoft Store -&gt; Settings</strong> and make sure \"Update apps automatically\" is turned on</li>\n<li><em>Apps downloaded manually</em> will need to be updated through the settings in those apps</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Mac OS X High Sierra</strong></p>\n<ul>\n<li>Both <em>Operating System</em> and <em>app</em> updates are done through <strong>System Preferences -&gt; App Store</strong> and make sure \"Automatically check for updates\" (with appropriate preferences) is checked</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li><em>Operating System&nbsp;</em>automatic updates are enabled by default, but you can verify by going to <strong>System -&gt; System update</strong> to see the last date and time the phone checked</li>\n<li>To make sure your <em>apps</em> are updated, visit&nbsp;<strong>Play Store -&gt; Settings -&gt; Auto-update apps</strong> and select the appropriate choice (wifi only or at any time)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li><em>Operating System</em> updates are in <strong>Settings -&gt; General -&gt; Software Update</strong>; these are automatically enabled, but you can verify here</li>\n<li><em>App</em> updates are enabled in <strong>Settings -&gt; iTunes &amp; App Stores</strong> and toggle \"Updates\" to on</li>\n</ul>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/35/advent-01.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-01T21:44:00-05:00",
-            "date_modified": "2017-12-05T21:16:19-05:00"
         }
     ]
 }
