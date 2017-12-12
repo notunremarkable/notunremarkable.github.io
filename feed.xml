@@ -3,12 +3,36 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-11T12:53:55-05:00</updated>
+    <updated>2017-12-12T07:29:28-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 12</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-12/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-12/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-12T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/46/advent-12.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>lock your mobile device</strong></p>
+<p>Most of us carry (or have access to) everything in our phones: bank account, personal contacts, social media, and more. You're basically walking around with a mobile computer, and should treat it with the same care and consideration as your laptop or desktop.</p>
+<p>It's likely you already have a passcode on your mobile device; most of them require you to set one up these days when you first get it. Unfortunately, it's probably also only a four digit passcode. Did you know that with the right hardware, your four digit code can be brute force hacked in just&nbsp;<em>four days</em>?</p>
+<p>The more digits in your passcode, the harder it is to crack. At the very least, just take your four digit passcode and double it. Turning&nbsp;<strong>1234</strong> into&nbsp;<strong>12341234</strong>&nbsp;makes a brute force crack go from about four days to almost&nbsp;<em>six years</em>! Of course ... you use a better passcode than&nbsp;<strong>1234</strong> though, right?!</p>
+<p>So right now, if you don't have a passcode, set one up. If you do, but it's less than eight digits, update it!</p>
+<p>Now, before you jump to setting up your fingerprint or facial recognition ... a word&nbsp;of warning. Keep in mind that all biometric data can be spoofed or forced (coersion or legally) somehow. That doesn't mean you shouldn't&nbsp;use it at all;&nbsp;I do. It certainly is more convenient to place my fingerprint on the scanner than it is to type in an eight digit passcode everytime I want to do something secure. However, you need to personally weigh the pros and cons of that convenience versus the potential drawbacks. If you&nbsp;<em>do</em> continue with using your biometrics (fingerprint and/or face), remember that every time you reboot your device it will require you to re-enter your passcode.&nbsp;</p>
+<p>Well, today was short and sweet and now your device is&nbsp;<em>years</em> more secure than it was previously. See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 11</title>
         <author>
@@ -283,25 +307,6 @@
 <ul>
 <li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> to review all your privacy settings</li>
 </ul>
-<p>See you tomorrow!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 02</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-02/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-02/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-05T21:16:31-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/36/advent-02.jpg" alt="" />
-                <p>Today's <a href="../../../../../../../../../cybersecurity-advent-intro">Cybersecurity tip</a> is: <strong>use anti-virus and anti-malware</strong><br><br>Adding another layer of security is installing an anti-virus <em>AND</em> an anti-malware program on your computer <em>AND</em> your phone. Macs, Windows, iPhones, Androids &hellip; all of them&nbsp;are&nbsp;potentially vulnerable. Also, no single anti-virus program can catch everything, but something is better than nothing. Plus, there are so many free options available, it's almost sinful not to install one.<br><br>So, what's the difference between anti-virus and anti-malware? A Virus is&nbsp;a specific type of malware designed to spread (like a biological virus). Malware is the general term for anything bad that gets installed on your device (spyware, adware, viruses, trojans, etc.). You're probably asking why you would need two programs installed if anti-malware includes anti-virus capabilities. There are two reasons &hellip;<br><br>First, no single provider can catch everything. Every provider of anti-virus or anti-malware software handles scanning and detection in a different way. By having two different pieces of software installed, you're adding another layer of protection.<br><br>Second,&nbsp;anti-virus tools typically run all the time, scanning files and your computer on a regular basis. Anti-malware tools typically run on-demand, when you want to check something specific. <br><br>So, do yourself a favor and find a decent anti-virus and anti-malware program. I currently use <a href="https://www.avg.com/en-us/free-antivirus-download" target="_blank" rel="noopener noreferrer">AVG </a>for Anti-virus (for Windows and Android) and <a href="https://www.malwarebytes.com/">Malwarebytes </a>for anti-malware. There are plenty of both anti-virus and anti-malware options available though.</p>
 <p>See you tomorrow!</p>
             ]]>
         </content>
