@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
+            "title": "Cybersecurity Advent - Day 13",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: enable \"find my phone\" features</p>\n<p>This will be quick and to the point. As I mentioned yesterday, we pretty much carry our lives on our mobile devices. If you've never lost a phone, or even just misplaced it, count yourself lucky; it is&nbsp;<em>not</em> a fun feeling.</p>\n<p>Fortunately, most mobile operating systems have features available, built into the device, to help you find your phone if you lose it. Here are the steps for the two latest mobile operating systems:</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Security &amp; location -&gt; Find My Device</strong> and turn it \"on\"</li>\n<li><em>note:</em> you may need to download the \"Find My Device\" app from the Google Play store first</li>\n</ul>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Your Apple ID account -&gt; iCloud -&gt; Find My iPhone</strong> and turn it on</li>\n</ul>\n<p>Now you are able to visit the <a href=\"https://www.google.com/android/find\" target=\"_blank\" rel=\"noopener noreferrer\">Google Find My Device</a> or the <a href=\"https://www.icloud.com/\">Apple iCloud</a>&nbsp;page on a web browser, sign into the same account you're logged into on the phone, and then remotely lock, locate, and/or play a sound on your phone. This is handy if the phone was left somewhere or just lost in the house.</p>\n<p>See?&nbsp;Easy-peasy lemon squeezy. See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/47/advent-13.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-13T09:00:00-05:00",
+            "date_modified": "2017-12-13T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-12/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-12/",
             "title": "Cybersecurity Advent - Day 12",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-04T09:00:00-05:00",
             "date_modified": "2017-12-05T21:16:57-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-03/",
-            "title": "Cybersecurity Advent - Day 03",
-            "content_html": "<p>Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is: <strong>review your computer's privacy settings</strong></p>\n<p>It's no secret that companies gather information about their customers. The problem is when we don't pay attention and let them gather everything about us and our habits. While their service may be great, and their intentions innocent, if they've got that information then somebody with not-so-innocent intentions can get that information; you have no control over how well those companies protect your information.&nbsp;</p>\n<p>While it is easier than ever before to gather private information about people, it's also fairly easy to restrict that information (location, contacts, etc.). It might not be possible to restrict some information, depending on the device or application. In fact, restricting some information actually breaks the intended use of the application (imagine trying to use your Maps app without granting it location use ... possible, but not as intended). Therefore, it's worth taking 15 minutes or so to review your privacty settings to make sure you're comfortable with the amount of information you're sharing.</p>\n<p>Here's how to do that on the more&nbsp;popular platforms:</p>\n<p><strong>Windows 10</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> and there are several menus worth of information to review&nbsp;</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Mac OS X High Sierra</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Security &amp; Privacy -&gt; Privacy</strong> to review all your privacy settings</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>First you'll want to check your Google privacy settings by visiting&nbsp;<strong>Settings -&gt; Google -&gt; Personal Info &amp; Privacy</strong> or visiting&nbsp;<a href=\"https://myaccount.google.com\">https://myaccount.google.com</a>&nbsp;in a browser while signed in with your Google account</li>\n<li>Then you'll want to check&nbsp;<em>App</em>&nbsp;settings by visiting&nbsp;<strong>Settings -&gt; Apps &amp; Notifications -&gt; App permissions</strong> to review which apps have phone, camera, location, etc. permissions</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Privacy</strong> to review all your privacy settings</li>\n</ul>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/37/advent-03.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-03T09:00:00-05:00",
-            "date_modified": "2017-12-05T21:16:45-05:00"
         }
     ]
 }
