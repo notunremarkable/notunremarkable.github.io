@@ -3,7 +3,7 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-13T08:02:05-05:00</updated>
+    <updated>2017-12-13T08:04:03-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
@@ -23,8 +23,8 @@
         <content type="html">
             <![CDATA[
                     <img src="http://git.notunremarkable.me/media/posts/47/advent-13.jpg" alt="" />
-                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: enable "find my phone" features</p>
-<p>This will be quick and to the point. As I mentioned yesterday, we pretty much carry our lives on our mobile devices. If you've never lost a phone, or even just misplaced it, count yourself lucky; it is&nbsp;<em>not</em> a fun feeling.</p>
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>enable "find my phone" features</strong></p>
+<p>This will be quick and to the point. As <a href="#INTERNAL_LINK#/post/46">I mentioned yesterday</a>, we pretty much carry our lives on our mobile devices. If you've never lost a phone, or even just misplaced it, count yourself lucky; it is&nbsp;<em>not</em> a fun feeling.</p>
 <p>Fortunately, most mobile operating systems have features available, built into the device, to help you find your phone if you lose it. Here are the steps for the two latest mobile operating systems:</p>
 <p><strong>Android O</strong></p>
 <ul>
