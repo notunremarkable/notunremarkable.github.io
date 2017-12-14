@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
+            "title": "Cybersecurity Advent - Day 14",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>protect your lockscreen</strong></p>\n<p>I don't even need to mention how important protecting your mobile device is ... this is the <a href=\"#INTERNAL_LINK#/post/46\">third</a> <a href=\"#INTERNAL_LINK#/post/47\">day</a> of tips dedicated to them. And while it's convenient to have notifications displayed on your phone's lockscreen so you can quick check a text or email without unlocking the device, it's also a bit of a privacy and security risk.</p>\n<p>It's not unimaginable to picture a scenario in which a temporary password or something is emailed to you and shown on your phone's lockscreen; or even something as benign as a phone number being texted to you. Both scenarios can potentially reveal information you either want private or can be used against you.</p>\n<p>The benefit of not sharing private information, especially if you lose your mobile device, far outweighs the minor inconvenience of having to unlock your device to view a notification. Since I'm certain you agree, here are the steps to modify (or at least review) your notification settings on the two latest platforms:</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Visit&nbsp;<strong>Settings -&gt; Security &amp; location -&gt; Lock screen preferences</strong>; from here you can turn off or \"hide sensitive notification content\"</li>\n</ul>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Visit&nbsp;<strong>Settings -&gt; Notifications -&gt; Show Previews</strong>; from here you can turn off or only show previews \"when unlocked\"</li>\n</ul>\n<p>Your device is now locked down with a secure passcode, easy to find or remotely lock if you lose it, and sensitive and private information won't be shown on the lockscreen. Kudos to you for your security-consciousness.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/48/advent-14.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-14T09:00:00-05:00",
+            "date_modified": "2017-12-14T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
             "title": "Cybersecurity Advent - Day 13",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-05T09:00:00-05:00",
             "date_modified": "2017-12-05T21:17:08-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-04/",
-            "title": "Cybersecurity Advent - Day 04",
-            "content_html": "<p>Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is:&nbsp;<strong>backup your devices</strong></p>\n<p>If you've never experienced a hard drive crash on your computer or your mobile phone completely dying and you lose everything on your device ... consider yourself lucky. We put a lot of information, time, and effort into our devices, and if we ever lose them it can potentially be catastrophic.</p>\n<p>Fortunately, it can be&nbsp;quite simple to backup your devices and your data. Unfortunately, I can't give a \"one size fits all\" solution here. I can provide you some guidelines&nbsp;and give you my personal setup though which will hopefully point you in the right direction to start backing up your computer and/or mobile device.</p>\n<p>The first thing to remember about backups is the <strong>3-2-1 rule</strong>. Have at least&nbsp;<strong>3 copies&nbsp;</strong>of your data, on&nbsp;<strong>2 media</strong> types, and keep&nbsp;<strong>1 offsite</strong> copy.</p>\n<p>How you decide to do that will depend on what you are backing up and how your system is configured.&nbsp;Here's how I handle it:</p>\n<p>My important files are stored locally in My Documents on my computer hard drive then&nbsp;synced to a cloud drive automatically. Additionally, I have an external hard drive I plug in manually at least once per week and run Windows' File System backup at that time. So, I have three copies (one local, one online, and one on an external drive) on at least two types of media (hard drives and cloud drive) and one offsite (stored on the cloud provider servers). This same setup can be reproduced in Mac OS X with any cloud drive and Time Machine.</p>\n<p>As for your mobile device ... I suggest either the cloud drive or frequent, manual backups to your computer. My photos are the only thing&nbsp;on my mobile that I fear losing;&nbsp;so I have automatic backups to Google Photos enabled (iPhotos will do the same thing on iPhone ... but with limited cloud space). In general, you need to ask yourself what you wouldn't want to lose&nbsp;and go from there.</p>\n<p>I know it can feel overwhelming, espeically if you're not doing anything at the moment.&nbsp;So try signing up for a free cloud drive (OneDrive, Google Drive, iCloud, etc.) and just copy your \"documents\" folder to that drive right&nbsp;now. Or buy a 1TB USB drive (there are lots of great holiday deals, but typically can be found for under $50) and plug it into your system and copy everything over. Do that and you're already halfway to being fully backed up!</p>\n<p>This is certainly a bigger \"tip\" than can be dealt with in this one short post. So feel free to ask specific questions in the comments and maybe I can help set you on a better path.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/38/advent-04.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-04T09:00:00-05:00",
-            "date_modified": "2017-12-05T21:16:57-05:00"
         }
     ]
 }
