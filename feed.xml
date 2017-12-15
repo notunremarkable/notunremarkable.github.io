@@ -3,12 +3,53 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-14T07:53:17-05:00</updated>
+    <updated>2017-12-15T09:32:03-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 15</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-15/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-15/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-15T09:31:32-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/49/advent-15.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is:&nbsp;<strong>be careful in email</strong></p>
+<p>In reality, you should be careful and pay attention to all the information you post or share, links you click, or attachments you open online; not just in emails. But most people use email everyday for both personal and business reasons as well as communicating with people you don't know. Most other digital communication is in a controlled environment or with a limited audience. Additionally, it's very easy for <em>"bad guys"</em> to exploit email because of the relative anonimity, it's easy to reach wide audiences, and easy to&nbsp;spoof. Therefore, it's very important to protect yourself and be vigilant when using email.</p>
+<p>Here are a few things to pay attention to and some guidelines to follow for your inbox:</p>
+<p><strong>Don't trust&nbsp;links</strong></p>
+<ul>
+<li>Do you trust or know the person/service that sent the link?</li>
+<li>Were you expecting a link? For instance if you started a password reset for an account and need to verify your email address</li>
+<li>Check to make sure the link text matches the actual URL (mouseover or right-click to see the actual link URL)</li>
+<li>Make sure it's a secure link - HTTPS</li>
+<li>Make sure it's a trusted domain or from a service you actually have an account with</li>
+<li>Double-check the full URL - mybank.com is not the same as mybank.adifferentserver.com</li>
+<li>When in doubt, always open a browser and go directly to that service's website rather than click the link; if you receive an email from your bank stating you urgently need to open the link, then the same message should be in your account on their website&nbsp;... <strong>ALL</strong> good services do this</li>
+</ul>
+<p><strong>Don't trust attachments</strong></p>
+<ul>
+<li>Do you trust or know the person/service that sent the attachment?</li>
+<li>If your web client doesn't scan attachments for malware automatically, either save the file locally and scan or scan directly in the web client before opening</li>
+<li>Ensure the program you use to open the attachment opens it in "safe" mode - Adobe Reader and all Microsoft Office programs can be configured to disable running scripts or other malware processes, for example</li>
+<li>When in doubt, reach out to the person who sent the attachment and ask if it's safe - preferably contact them on a different channel (call/text), or</li>
+<li>Better yet, just delete the email</li>
+</ul>
+<p><strong>Be vigilant of information you give out<br></strong>Even if an email doesn't include an attachment or link, the person sending it might be <a href="https://en.wikipedia.org/wiki/Phishing" target="_blank" rel="noopener noreferrer">phishing</a> for information. Don't give out any usernames, birth dates, SSNs, or other sensitive information. Pay attention to who they are and what they're asking. If you wouldn't give information to a stranger face-to-face, then you shouldn't through email. And remember that it's very easy to spoof email information, so it can look like it's coming from somebody legitimate. Sometimes it doesn't hurt to verify you're having an actual conversation with the right person ... or better yet, is email the best place for that conversation? Maybe a phone call, text, or some other form of communication would be better.</p>
+<p>Hopefully these tips will help you feel a little safer using your inbox and can avoid malware or security breaches of sensitive information through email (and other digital communication).</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 14</title>
         <author>
@@ -262,45 +303,6 @@
 <p>Take 30 minutes or so to visit the settings in all your favorite apps to setup 2FA and you can feel safe in the knowledge that even if your username, email, and/or password are breached that your accounts are still safe.</p>
 <p>See you tomorrow!</p>
 <p>&nbsp;</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 05</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-05/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-05/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-05T21:17:08-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/39/advent-05.jpg" alt="" />
-                <p>Today's <a href="../../../../../../../../../cybersecurity-advent-intro">Cybersecurity tip</a> is:&nbsp;<strong>encrypt everything</strong></p>
-<p>Encryption seems like a scary topic to a lot of people; and if you get into the weeds of the algorithms used and salts and hashes ... it certainly can be. But for most people in everyday life, encryption boils down to <strong>securing data or information with a password</strong>; something everybody should already be familiar with.</p>
-<p>Rather than try to espouse the benefits of encryption and debate the pros and cons, let me just say that encryption keeps data at rest protected. If you're storing unencrypted files in the cloud, and a hacker gets those files, they have all that information. If those same files are encrypted, you've made it exponentially harder for the hacker to get the information in those files.</p>
-<p>In the interest of keeping this a "tip" rather than an essay, and so I don't take the thunder out of any potential future "tips" in this series, let me touch on some things you can do to encrypt your local storage and devices using built-in tools.</p>
-<p><strong>Windows</strong></p>
-<ul>
-<li>Certain versions of Windows contain Bitlocker full disk encryption; if you have this available to you ... USE IT; if not, consider upgrading to a higher version of Windows or using a third-party encryption tool</li>
-</ul>
-<p><strong>Mac OS X&nbsp;</strong></p>
-<ul>
-<li>FileVault full disk encryption is available in&nbsp;<strong>System Preferences -&gt; Security &amp; Privacy -&gt; FileVault</strong></li>
-</ul>
-<p><strong>Android O</strong></p>
-<ul>
-<li>Encryption can be enabled in&nbsp;<strong>Settings -&gt; Security &amp; Location -&gt; Encryption &amp; Credentials</strong></li>
-</ul>
-<p><strong>iOS</strong></p>
-<ul>
-<li>Encryption is enabled by default when you have a passcode enabled ... so <strong>make sure you have a passcode setup</strong></li>
-</ul>
-<p>Please note&nbsp;that encrypting your hard drive can potentially slow down your system since it's decrypting files or drives before use. However, most modern devices are fast enough to compensate and you would only notice this on older, slower devices anyway. Also note, I didn't mention encrypted containers or third-party encryption applications like VeraCrypt, Symantec Drive Encryption, etc. These have the same effect, but aren't integrated into the operating system, so are potentially less secure&nbsp;... but also have their valid uses.&nbsp;If you want more information about these tools, ask below.</p>
-<p>See you tomorrow!</p>
             ]]>
         </content>
     </entry>

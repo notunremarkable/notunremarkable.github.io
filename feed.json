@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-15/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-15/",
+            "title": "Cybersecurity Advent - Day 15",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>be careful in email</strong></p>\n<p>In reality, you should be careful and pay attention to all the information you post or share, links you click, or attachments you open online; not just in emails. But most people use email everyday for both personal and business reasons as well as communicating with people you don't know. Most other digital communication is in a controlled environment or with a limited audience. Additionally, it's very easy for <em>\"bad guys\"</em> to exploit email because of the relative anonimity, it's easy to reach wide audiences, and easy to&nbsp;spoof. Therefore, it's very important to protect yourself and be vigilant when using email.</p>\n<p>Here are a few things to pay attention to and some guidelines to follow for your inbox:</p>\n<p><strong>Don't trust&nbsp;links</strong></p>\n<ul>\n<li>Do you trust or know the person/service that sent the link?</li>\n<li>Were you expecting a link? For instance if you started a password reset for an account and need to verify your email address</li>\n<li>Check to make sure the link text matches the actual URL (mouseover or right-click to see the actual link URL)</li>\n<li>Make sure it's a secure link - HTTPS</li>\n<li>Make sure it's a trusted domain or from a service you actually have an account with</li>\n<li>Double-check the full URL - mybank.com is not the same as mybank.adifferentserver.com</li>\n<li>When in doubt, always open a browser and go directly to that service's website rather than click the link; if you receive an email from your bank stating you urgently need to open the link, then the same message should be in your account on their website&nbsp;... <strong>ALL</strong> good services do this</li>\n</ul>\n<p><strong>Don't trust attachments</strong></p>\n<ul>\n<li>Do you trust or know the person/service that sent the attachment?</li>\n<li>If your web client doesn't scan attachments for malware automatically, either save the file locally and scan or scan directly in the web client before opening</li>\n<li>Ensure the program you use to open the attachment opens it in \"safe\" mode - Adobe Reader and all Microsoft Office programs can be configured to disable running scripts or other malware processes, for example</li>\n<li>When in doubt, reach out to the person who sent the attachment and ask if it's safe - preferably contact them on a different channel (call/text), or</li>\n<li>Better yet, just delete the email</li>\n</ul>\n<p><strong>Be vigilant of information you give out<br></strong>Even if an email doesn't include an attachment or link, the person sending it might be <a href=\"https://en.wikipedia.org/wiki/Phishing\" target=\"_blank\" rel=\"noopener noreferrer\">phishing</a> for information. Don't give out any usernames, birth dates, SSNs, or other sensitive information. Pay attention to who they are and what they're asking. If you wouldn't give information to a stranger face-to-face, then you shouldn't through email. And remember that it's very easy to spoof email information, so it can look like it's coming from somebody legitimate. Sometimes it doesn't hurt to verify you're having an actual conversation with the right person ... or better yet, is email the best place for that conversation? Maybe a phone call, text, or some other form of communication would be better.</p>\n<p>Hopefully these tips will help you feel a little safer using your inbox and can avoid malware or security breaches of sensitive information through email (and other digital communication).</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/49/advent-15.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-15T09:00:00-05:00",
+            "date_modified": "2017-12-15T09:31:32-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
             "title": "Cybersecurity Advent - Day 14",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-06T09:00:00-05:00",
             "date_modified": "2017-12-06T16:37:07-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-05/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-05/",
-            "title": "Cybersecurity Advent - Day 05",
-            "content_html": "<p>Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is:&nbsp;<strong>encrypt everything</strong></p>\n<p>Encryption seems like a scary topic to a lot of people; and if you get into the weeds of the algorithms used and salts and hashes ... it certainly can be. But for most people in everyday life, encryption boils down to <strong>securing data or information with a password</strong>; something everybody should already be familiar with.</p>\n<p>Rather than try to espouse the benefits of encryption and debate the pros and cons, let me just say that encryption keeps data at rest protected. If you're storing unencrypted files in the cloud, and a hacker gets those files, they have all that information. If those same files are encrypted, you've made it exponentially harder for the hacker to get the information in those files.</p>\n<p>In the interest of keeping this a \"tip\" rather than an essay, and so I don't take the thunder out of any potential future \"tips\" in this series, let me touch on some things you can do to encrypt your local storage and devices using built-in tools.</p>\n<p><strong>Windows</strong></p>\n<ul>\n<li>Certain versions of Windows contain Bitlocker full disk encryption; if you have this available to you ... USE IT; if not, consider upgrading to a higher version of Windows or using a third-party encryption tool</li>\n</ul>\n<p><strong>Mac OS X&nbsp;</strong></p>\n<ul>\n<li>FileVault full disk encryption is available in&nbsp;<strong>System Preferences -&gt; Security &amp; Privacy -&gt; FileVault</strong></li>\n</ul>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Encryption can be enabled in&nbsp;<strong>Settings -&gt; Security &amp; Location -&gt; Encryption &amp; Credentials</strong></li>\n</ul>\n<p><strong>iOS</strong></p>\n<ul>\n<li>Encryption is enabled by default when you have a passcode enabled ... so <strong>make sure you have a passcode setup</strong></li>\n</ul>\n<p>Please note&nbsp;that encrypting your hard drive can potentially slow down your system since it's decrypting files or drives before use. However, most modern devices are fast enough to compensate and you would only notice this on older, slower devices anyway. Also note, I didn't mention encrypted containers or third-party encryption applications like VeraCrypt, Symantec Drive Encryption, etc. These have the same effect, but aren't integrated into the operating system, so are potentially less secure&nbsp;... but also have their valid uses.&nbsp;If you want more information about these tools, ask below.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/39/advent-05.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-05T09:00:00-05:00",
-            "date_modified": "2017-12-05T21:17:08-05:00"
         }
     ]
 }
