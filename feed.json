@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-16/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-16/",
+            "title": "Cybersecurity Advent - Day 16",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/48\">Cybersecurity tip</a> is: <strong>be careful what you post</strong></p>\n<p>It seems obvious to say you don't want to give away personal information online, but it's surprising the information you can find about people with a simple search.&nbsp;</p>\n<p>When you think about \"personal information\", a few obvious things come to mind: name, birth date, phone number, SSN, etc. However, there can potentially be a lot of information that&nbsp;<em>alone</em> isn't a big deal, but when put together with other information, can comprise a bigger picture of your identity.</p>\n<p>In fact, depending on your location (US regulations differ from EU&nbsp;regulations) or even industry (health standards differ from financial standards). In general though, the more information the&nbsp;<em>bad guys</em> have about you, the easier it is to exploit that information. So, here are a few tips to keep your information private:</p>\n<p><strong>Make sure your social networks are private</strong><br>Unless you need to maintain a public social media presence (actors, politicians, etc.), then your best security is making your activity on the network&nbsp;<strong>private</strong> or&nbsp;<strong>secret</strong>.&nbsp;</p>\n<p><strong>Keep your profile information limited</strong><br>Even if you&nbsp;<em>do</em> need to maintain a public social media presence, you should limit the amount of information you share in your profile. The less you post, but better.</p>\n<p><strong>Verify your friends</strong><br>It's easy to follow anybody who follows you first.&nbsp;But making sure you're only friending people you&nbsp;<em>actually</em> know provides another layer of security when sharing potentially personal information becuase you more likely trust somebody you actually know.</p>\n<p><strong>Validate your sharing settings</strong><br>Take a look in your application's settings to see what features they offer to limit who sees your information and how it gets shared. For instance, on Facebook you can limit how people even find you or whether they need to know your email address or phone number before finding you.&nbsp;</p>\n<p><strong>Think about what you're sharing</strong><br>Take a few seconds to re-read and/or think about the information you're sharing. Is it something you wouldn't mind everybody in the world knowing? If so, maybe you should modify what you post.&nbsp;</p>\n<p>There are about a hundred more ways you can keep your information private. But what it all boils down to is common sense. You've certainly read somebody else's social media post and thought&nbsp;<em>I wouldn't have shared that much information</em>. Hopefully you will take a few minutes to check your sharing settings and feel safe about what you're putting out there to the world.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/50/advent-16.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-16T09:00:00-05:00",
+            "date_modified": "2017-12-16T09:00:00-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-15/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-15/",
             "title": "Cybersecurity Advent - Day 15",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-07T09:00:00-05:00",
             "date_modified": "2017-12-07T09:51:08-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-06/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-06/",
-            "title": "Cybersecurity Advent - Day 06",
-            "content_html": "<p>Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is: <strong>enable multifactor authentication (MFA) or two-factor authentication (2FA)</strong></p>\n<p>You're already familiar with authentication, which is proving you are who you say you are. The most popular way to authenticate to a service or system online is using an email address and password. These are considered \"something you know.\" To make authentication more secure, we need to add another factor ... like \"something you have\" or \"something you are.\"</p>\n<p>\"Something you are\" would be biometrics (like facial recognition on Android and FaceID on iPhone). \"Something you have\" would be enabling a limited time passcode or requiring you to approve a login remotely from your mobile device ... often by sending you a limited time token through text which you then enter on the site. The thought being that hackers might have your username and password, but they can't get that limited time token without having physical access to your mobile device or computer.</p>\n<p>Most services these days can enable some sort of 2FA or MFA. I'll walk you through setting up both a code generator app and 2FA in Twitter. I will use <a href=\"https://authy.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Authy </a>for this example, but there are several other options including Google Authenticator and Microsoft Authenticator.</p>\n<ol>\n<li>Install Authy and setup your account using your mobile device number (or login to your existing account)</li>\n<li>Log into Twitter and visit&nbsp;<strong>Settings</strong></li>\n<li>Under&nbsp;<strong>Account -&gt; Security</strong>&nbsp;<a href=\"https://imgur.com/tmLwybB\">click the button</a> that reads \"Setup a code generator app\"</li>\n<li>On <a href=\"https://imgur.com/UhgSfEO\">the popup window</a>, you will either copy-and-paste the Secret Key or scan the QR Code with Authy</li>\n<li>Authy will generate a six-digit code that is good for 30 seconds; copy that code and paste in the&nbsp;<strong>Security Code</strong> box in the Twitter popup and click \"Done\" to complete the setup</li>\n</ol>\n<p>Now every time you log into Twitter (only on a new device or if you logged out on your existing device) you will be prompted for your email address and password as well as a six-digit code generated by Authy.</p>\n<p>Take 30 minutes or so to visit the settings in all your favorite apps to setup 2FA and you can feel safe in the knowledge that even if your username, email, and/or password are breached that your accounts are still safe.</p>\n<p>See you tomorrow!</p>\n<p>&nbsp;</p>",
-            "image": "http://git.notunremarkable.me/media/posts/40/advent-06.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-06T09:00:00-05:00",
-            "date_modified": "2017-12-06T16:37:07-05:00"
         }
     ]
 }
