@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-18/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-18/",
+            "title": "Cybersecurity Advent - Day 18",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>use ad-blockers</strong></p>\n<p>First and foremost, I use a lot of free services on the internet. And I know many of those services rely on advertising revenue to remain in business. However, as somebody who assesses risk for a living, I look at the pros and cons of just about everything.</p>\n<p>Many websites use third-party advertising engines to feed relevant advertisements to their site (relevant to the user based on many factors). These third-party advertising engines/sites may or may not vette the advertisements and many will sell your information to advertisers. Some&nbsp;of the third-party advertising sites host malware-injected advertising as well. In my opinion, there are enough risky advertisements out there to warrant using an ad-blocker in my daily use.</p>\n<p>That said, I also do whitelist sites I trust and/or rely on in order to allow them to continue their business. There are many different options for blocking advertisements during your internet browsing ... let's take a look at a few of them:</p>\n<p><strong>Browser plugin<br></strong>There are a lot of options for browser plugins, almost too many. The two I've used regularly with good success are <a href=\"https://en.wikipedia.org/wiki/UBlock_Origin\" target=\"_blank\" rel=\"noopener noreferrer\">uBlock Origin</a> and <a href=\"https://adblockplus.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Adblock Plus</a>. Adblock Plus does allow some pre-vetted (and \"non-intrusive\" according to them) advertising through ... which is why I switched to uBlock Origin (UO); that and UO is open source. Either way, they are both available on just about every browser out there and very configurable.</p>\n<p><strong>Browser</strong><br>There are even a few browsers with adblocking built right into their code. <a href=\"https://brave.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Brave Browser</a> and <a href=\"https://www.opera.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Opera </a>are two big ones. Firefox Focus and Opera are both mobile browsers with built-in adblocking for browsing safely on-the-go.</p>\n<p><strong>Other</strong><br>You should also consider a privacy plugin like <a href=\"https://www.ghostery.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Ghostery</a>. This helps protect your personal information and does some ad blocking as well. I'm&nbsp;<em>almost certain</em> there will be a tip on this soon.</p>\n<p>Adblocking not only has privacy and security benefits to browsing, but can also help your user experience on many sites (faster loading, for instance). Fortunately, there are a lot of tools available that make it easy to accomplish. We looked at just a few, so I hope you're installing one now if you didn't have one already.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/52/advent-18.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-18T09:00:00-05:00",
+            "date_modified": "2017-12-18T12:55:36-05:00"
+        },
+        {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-17/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-17/",
+            "title": "Cybersecurity Advent - Day 17",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>review your connected accounts</strong></p>\n<p>Many websites allow you to sign in using your credentials from another service (like Google, Facebook, or Twitter). While this is convenient, depending on what you agreed to when you connected the account, they may be seeing more information or have more access than you intend. Not only that, but these connections are sometimes set to not expire, so you give some other company access to your information long after you've stopped using their service.</p>\n<p>Fortunately there's a relatively easy fix. Spend a few minutes today reviewing your connected accounts and ensure only the services you want connected stay that way. Here's how to check your connected apps in the big three:</p>\n<p><strong>Google</strong></p>\n<ul>\n<li>Visit your <a href=\"https://myaccount.google.com/permissions\" target=\"_blank\" rel=\"noopener noreferrer\">account permissions page</a> and sign in with your Google account</li>\n</ul>\n<p><strong>Facebook</strong></p>\n<ul>\n<li>Log into Facebook and go to&nbsp;<strong>Settings -&gt; Apps</strong></li>\n</ul>\n<p><strong>Twitter</strong></p>\n<ul>\n<li>Log into Twitter and go to&nbsp;<strong>Settings and privacy -&gt; Apps</strong></li>\n</ul>\n<p>See how easy they make it? All three tell you what level of access the connected app has and when it last connected. You might be surprised how many connections you have. When I first started doing this years ago, I had apparently connected an app I only ever used once and granted it full permission to my Twitter account (back before Twitter was better about limiting access of third party services); and it had had those permissions for almost a year. Oof.</p>\n<p>Short and sweet today, but you will definitely feel better knowing you've cleared house of some backdoor access to your social media and private information.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/51/advent-17.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-17T09:00:00-05:00",
+            "date_modified": "2017-12-18T12:55:58-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-16/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-16/",
             "title": "Cybersecurity Advent - Day 16",
@@ -22,7 +52,7 @@
                    "Security"
             ],
             "date_published": "2017-12-16T09:00:00-05:00",
-            "date_modified": "2017-12-16T09:00:00-05:00"
+            "date_modified": "2017-12-18T12:56:18-05:00"
         },
         {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-15/",
@@ -128,36 +158,6 @@
             ],
             "date_published": "2017-12-09T09:00:00-05:00",
             "date_modified": "2017-12-09T09:00:00-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-08/",
-            "title": "Cybersecurity Advent - Day 08",
-            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>change your passwords</strong></p>\n<p>Ideally you've chosen and setup a <a href=\"#INTERNAL_LINK#/post/41\">password manager</a>. If not, this part will not be as easy ... but still necessary. Changing your passwords&nbsp;will also be a time consuming process but&nbsp;one that should be ongoing in your life.</p>\n<p>As stated previously, the old school of thought was that you should change your password fairly frequently, like every 90 days. New wisdom says only change your password when there's been evidence of a breach of login information. I'm a little more conservative and don't see the harm in changing your passwords annually ... especially if you're using a password manager; it will do all the heavy lifting for you! I feel annually strikes a good balance and minimizes data loss in case of a breach.</p>\n<p>If you do use a&nbsp;password manager, it can generate a password with any parameters you give it. I recommend 16-20 characters (or more if the site supports it) and a mix of as many different types of characters as possible. If you have the option to&nbsp;<strong>not</strong> use dictionary or pronouncable words, I suggest you do&nbsp;that too just for an extra layer of security. Again, the point is to have ridiculously hard passwords to guess, and let your password manager remember it for you. Try to manually remember <strong>iJBblxg6@%Ur95VNj0uz</strong> for just one site and now think about&nbsp;how many sites with which you actually have an account.&nbsp;<em>Just don't forget your master password!</em></p>\n<p>If you're not using a password manager, then try to stick with memorable passphrases or even just use three random words that you'll remember. Most sites allow all ASCII characters, even spaces, so&nbsp;<strong>round blue bananas</strong> would be a valid password and easier to remember than the password generated <strong>iJBblxg6@%Ur95VNj0uz</strong>. Of course, it likely won't meet the password requirements of most sites ... so you'll have to mix it up a little and&nbsp;<em>still</em> remember it.</p>\n<p>Also important, use a different password/passphrase for every site or service with which you have an account (which is <em>very</em> easy to do with a password generator ... are you seeing a theme yet?). For example, if your credentials are stolen in a data breach at&nbsp;Uber.com, <em>hypothetically,</em>&nbsp;and you reused that&nbsp;password everywhere, then the hackers potentially have your login information for every site you visit. Use a different password everywhere (or one master password for your password generator ... okay I'll stop now)!</p>\n<p>Now you know how to make a good password; so&nbsp;get out there and do it. In my opinion, you should make a habit of changing your password every year on every site you visit. Put it in your calendar and then just try to break it up over the course of a week or so. Make the effort to visit 5-10 of your sites per day and change your account passwords. It shouldn't take more than 15 minutes to go through that many&nbsp;sites, so you won't spend more than a couple hours over the course of one week per year. That's a pretty small investment to help keep your digital data secure.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/42/advent-08.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-08T09:00:00-05:00",
-            "date_modified": "2017-12-08T09:00:00-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-07/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-07/",
-            "title": "Cybersecurity Advent - Day 07",
-            "content_html": "<p>Today's <a href=\"../../../../../../../../../cybersecurity-advent-intro\">Cybersecurity tip</a> is:&nbsp;<strong>use a password manager</strong></p>\n<p>For a long time, you probably heard that your password should be a mix of upper, lower, special characters, and numbers and that you needed to change it every two or three months. Oh, and you can't re-use any of the last 30 passwords you've ever used or use any part of a real word or any other number of ridiculous requirements.&nbsp;</p>\n<p>Fortunately, convential wisdom has changed. Analysis of a decade's worth of data showed that those super complex, constantly changing passwords didn't do much to help. Instead, the new guidelines recommend being more <em>user</em> friendly (hooray!). Long passwords with complexity is still important, but testing those passwords against lists of dictionary passwords and known compromised passwords. And of course, you still need unique passwords for every account you have.&nbsp;In reality, people can't remember that many unique passwords&nbsp;... even with <a href=\"https://www.passwordping.com/surprising-new-password-guidelines-nist/\" target=\"_blank\" rel=\"noopener noreferrer\">\"looser\" guidelines</a>. That's where password managers come in.</p>\n<p>The idea of a (good) password manager is that you only need to remember your secure&nbsp;<em>master password</em> and let the password manager handle remembering all the passwords for your various accounts. This frees up your mind to remember one&nbsp;truly secure password.</p>\n<p>There are several well-known and respected password managers out there, and each has its strengths and weaknesses. While there are a lot of options for password managers (Dashlane, LastPass, 1Password, etc.), the basic functionality of them is similar. Your passwords are stored, encrypted by your master password, either in the cloud or locally to your computer.&nbsp;I've used&nbsp;<a href=\"https://www.lastpass.com/\" target=\"_blank\" rel=\"noopener noreferrer\">LastPass</a>&nbsp;for the last seven years or so. LastPass&nbsp;only encrypts/decrypts my passwords locally, so there's no worry about a breach on their system. I&nbsp;haven't had any issues with performance, and the convenience of having my passwords on my computer and on my mobile device has saved me more than once. Bonus, LastPass supports <a href=\"../../../../../../../../../cybersecurity-advent-day-06\">2FA</a>.</p>\n<p>One last thought, I recommend you use a password manager&nbsp;that has a browser extension available. This allows the password manager to fill in form and password information directly on websites you visit. This makes it even more convenient to browse while still staying secure. If you have any specific questions about LastPass or setting (or choosing) your password manager, ask in the comments below.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/41/advent-07.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-07T09:00:00-05:00",
-            "date_modified": "2017-12-07T09:51:08-05:00"
         }
     ]
 }
