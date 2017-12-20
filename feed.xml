@@ -3,12 +3,35 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-19T23:50:17-05:00</updated>
+    <updated>2017-12-20T15:57:21-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 20</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-20/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-20/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-20T15:56:45-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/54/advent-20.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>use HTTPS everywhere</strong></p>
+<p>&nbsp;I've already touched on <a href="#INTERNAL_LINK#/post/39">encryption </a>in this series, so you're aware of the importance of scrambling your data. I've also briefly touched on encryption of your <a href="#INTERNAL_LINK#/post/45">data in transit using HTTPS</a>.</p>
+<p>So today's tip is a quick and easy one in which you install the <a href="https://www.eff.org/https-everywhere" target="_blank" rel="noopener noreferrer">HTTPS Everywhere</a> browser plugin provided by the Electronic Frontier Foundation.&nbsp;</p>
+<p>This plugin will automatically redirect your browser traffic to secure, HTTPS-enabled servers if available or if their ruleset is in place. While not perfect, and doesn't cover every site on the internet, it still adds another level of security to your day-to-day browsing.&nbsp;</p>
+<p>That's it ... that's all I've got today. Even though it's short, it's still important; so go <a href="https://www.eff.org/https-everywhere" target="_blank" rel="noopener noreferrer">install that plugin now</a>.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 19</title>
         <author>
@@ -278,36 +301,6 @@
 </ul>
 <p>There's a fantastic, comprehensive breakdown of almost 200 VPN providers available at <a href="https://thatoneprivacysite.net/vpn-comparison-chart/" target="_blank" rel="noopener noreferrer">That One Privacy Site</a>. There are many more factors reviewed on there, like the provider's activism for example. It's the most thorough review site I've seen and I highly recommend you check it out!</p>
 <p>In the end, you have to&nbsp;<strong>trust</strong> the service you're using with your data; just like you currently trust your ISP with your data (or probably more). So, a little research is worth it.&nbsp;</p>
-<p>See you tomorrow!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 10</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-10/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-10/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-10T09:36:36-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/44/advent-10.jpg" alt="" />
-                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is:&nbsp;<strong>be careful with public wifi and hotspots</strong></p>
-<p>Of course we're all wary of public wifi, aren't we? We&nbsp;<em>never</em> just join a hotspot at a cafe because it happens to have the same name as the cafe, right?&nbsp;</p>
-<p>It takes little to no effort to setup a hotspot and advertise it to people to connect. On <em>any</em> wireless network all your traffic travels through that router or wireless access point (WAP) and can potentially be stolen. I'm not saying you can't join the cafe wifi; I'm saying be&nbsp;<em>careful</em> and pay attention before you join.&nbsp;So, in the spirit of today's tip, here are a few things to keep in mind when you're joining a public, or uncontrolled, wifi or hotspot:</p>
-<p><strong>Prefer secured wifi over unsecured</strong>. If given the option of WPA or WPA2 protected network (password required), choose that over the unsecured network.</p>
-<p><strong>Validate&nbsp;the SSID.</strong> Does the network name match the advertised name? If it's not advertised, ask somebody who works there.&nbsp;</p>
-<p><strong>Turn off "remember this network".</strong> You probably have "attwifi", "xfinitywifi", or "linksys" in your list of saved networks right now (or any host of other popular names). Anybody who sets up an unsecure wifi network with the same name will grab devices automatically. Turn it off and "forget" those networks right now.</p>
-<p><strong>Use a VPN.</strong> Virtual Private Networks (VPNs) encrypt your traffic from the device to the server, keeping you more secure. I'm&nbsp;<em>almost</em> positive there will be another advent tip about this soon ...</p>
-<p><strong>Don't share files.</strong> Most operating systems give you the option of turning off file sharing when joining wifi. Marking the connection as "public" is sometimes enough, check with your operating system to be sure.</p>
-<p><strong>Avoid certain websites.</strong> Don't do your banking, online shopping, or anything other internet activity that has deeply personal, private information.</p>
-<p><strong>Stay patched.</strong> I've covered this before, but make sure your devices have all the latest patches and updates to ensure you're not vulnerable to many known vulnerabilities (yes, even wifi has vulnerabilities).</p>
-<p><strong>Consider using your phone.</strong> If there's any doubt at all, most cell phone providers let you use your phone as a hotspot. If you don't have unlimited data, this can potentially push you over your limit. So pay attention!</p>
-<p>There are plenty of legitimate public hotspots out there, but it only takes one bad one to steal your data or plant a virus on your computer. Hopefully you're now more aware than you already were and will stay safe.</p>
 <p>See you tomorrow!</p>
             ]]>
         </content>
