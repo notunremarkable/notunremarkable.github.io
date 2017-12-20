@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-19/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-19/",
+            "title": "Cybersecurity Advent - Day 19",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>manage your privacy while browsing</strong></p>\n<p>I'm sure it comes as no surprise that your browsing habits are tracked regularly by multiple sites. If you look at your cookies in your browser of choice right now, there are probably hundreds to thousands of cookies stored there. Those cookies feed information back to their host about sites you've visited or preferences you've set for a specific site.&nbsp;Cookies aren't inherently bad; but there are some sites that use cookies beyond their original intent or outright maliciously.&nbsp;</p>\n<p>Some might be inclined to just turn off cookies in their browser. However, then you risk losing some of the benefits of cookies. A reasonable alternative is to use one of several browser plugins to help protect your privacy. My plugin of choice is&nbsp;<a href=\"https://www.ghostery.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Ghostery</a>.</p>\n<p>Ghostery is an easy-to-install browser plugin available for all the major browsers. Once installed, you will be walked through the setup. You will be asked a few questions in which you should consider your browsing habits and preferences about trackers. One of the last steps is to create an account in order to sync your settings across computers and browsers ... I've never done this if I'm honest; I just set it up again since it's so easy. But you do what is best for you.</p>\n<p>Once you're setup, you'll have a little icon in your browser that will show you how many trackers and cookies are being blocked on a site. If you find a site isn't working for some reason, they may have a cookie that is required for proper use. In that case, you can click on the ghost icon and&nbsp;<strong>pause</strong> Ghostery; reload the page and verify if it's working or not. If that's the case, then you can add that site as a \"trusted site\" and then resume Ghostery protection.</p>\n<p>That's really all there is to it. Now your browsing habits, sites you've visited, and any other online activities will be kept more private by having those trackers blocked. As I mentioned previously, Ghostery&nbsp;<em>is</em> a proprietary company, so they are likely anonymizing your data and monetizing it somehow. I'm okay with it because I receive a service from them for free&nbsp;<em>and</em> they're up front in their privacy policies how they use your information. If you're not alright with it, I recommend you find an <a href=\"https://prism-break.org/en/subcategories/windows-web-browser-addons/\" target=\"_blank\" rel=\"noopener noreferrer\">open source alternative</a> that has similar features.&nbsp;</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/53/advent-19.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-19T09:00:00-05:00",
+            "date_modified": "2017-12-19T23:50:05-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-18/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-18/",
             "title": "Cybersecurity Advent - Day 18",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-10T09:00:00-05:00",
             "date_modified": "2017-12-10T09:36:36-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-09/",
-            "title": "Cybersecurity Advent - Day 09",
-            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is:&nbsp;<strong>secure your home wifi/router</strong></p>\n<p>If you don't have high-speed internet at home, today's tip probably won't be for you. Also, how do you survive?&nbsp;Anyway, here are some things you can do to shore up your home wifi router:</p>\n<p><strong>Change Default Password</strong>. Your Internet Service Provider (ISP) probably preset the administrator username and password. Log in (using their instructions provided) and change the password. If you have an option to change the admin username, do that too! Many times, the default username/password are universal and can be found on the internet.</p>\n<p><strong>Enable Network Encryption</strong>. In order to keep your home network traffic secure and private, you'll want to turn on WPA or (ideally) WPA2 encryption. Each router has different instructions on how to do this.</p>\n<p><strong>Change Default SSID</strong>. Your Service Set ID (SSID) is the name of your network and might be set to the manufacturer's default name. Pick a new, unique name for your network to show that you take the time to configure your network properly.</p>\n<p><strong>Disable Broadcast SSID</strong>. Now that you know the name of your network, turn off broadcast so that people can't easily find your network without knowing the name. While this doesn't necessarily protect your network, it does hide it making it a little harder to crack.</p>\n<p><strong>Advanced Options</strong>. Depending on your level of comfort, consider turning on the firewall (if it's not already) and/or enabling MAC address filtering. These steps will ensure nobody can remotely connect to your router (other than your ISP) and only devices you specify will even be able to connect to the router.</p>\n<p>You've taken huge steps in securing your home network and should be able to rest relatively easy knowing you're browsing safely.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/43/advent-09.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-09T09:00:00-05:00",
-            "date_modified": "2017-12-09T09:00:00-05:00"
         }
     ]
 }
