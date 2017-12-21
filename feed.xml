@@ -3,7 +3,7 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-21T08:00:21-05:00</updated>
+    <updated>2017-12-21T08:02:08-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
@@ -23,7 +23,7 @@
         <content type="html">
             <![CDATA[
                     <img src="http://git.notunremarkable.me/media/posts/56/advent-21.jpg" alt="" />
-                <p>Today's Cybersecurity tip is: use common sense</p>
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>use common sense</strong></p>
 <p>We've spent a majority of the past few weeks reviewing technological tools to help keep you secure. But there's a saying that goes "built something more idiot proof and they'll build a better idiot." </p>
 <p>Not to call anybody names, but a modicum of <em>common sense</em> is involved in just about everything you do in life ... including using a computer, mobile device, or the internet.</p>
 <p>So, to recap some of the major points from earlier in this series, and to add a few more; here is a list of common sense tips to keep in mind while online:</p>
