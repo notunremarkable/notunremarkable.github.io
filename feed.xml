@@ -3,12 +3,45 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-20T15:57:21-05:00</updated>
+    <updated>2017-12-21T08:00:21-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 21</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-21/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-21/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-21T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/56/advent-21.jpg" alt="" />
+                <p>Today's Cybersecurity tip is: use common sense</p>
+<p>We've spent a majority of the past few weeks reviewing technological tools to help keep you secure. But there's a saying that goes "built something more idiot proof and they'll build a better idiot." </p>
+<p>Not to call anybody names, but a modicum of <em>common sense</em> is involved in just about everything you do in life ... including using a computer, mobile device, or the internet.</p>
+<p>So, to recap some of the major points from earlier in this series, and to add a few more; here is a list of common sense tips to keep in mind while online:</p>
+<ul>
+<li><strong>Never give out personal information</strong> - except in very few circumstances</li>
+<li><strong>Be careful what details you post online</strong> - don't share too much</li>
+<li><strong>Pay attention to your audience</strong> - who can see your post?</li>
+<li><strong>Use strong passwords</strong> - longer is better, password managers are better still</li>
+<li><strong>Use multi-factor authentication</strong> - whenever and wherever you can</li>
+<li><strong>Don't click links or attachments</strong> - especially unsolicited links, but verify links are legitimate if you trust the source</li>
+<li><strong>Check your settings</strong> - don't stick with the default settings for any online service; double-check them</li>
+<li><strong>Surf securely</strong> - don't use public Wifi and always use a VPN</li>
+</ul>
+<p>Bottom line is, think about what you're doing. Does it feel right? Go with your gut.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 20</title>
         <author>
@@ -269,39 +302,6 @@
 <p>So right now, if you don't have a passcode, set one up. If you do, but it's less than eight digits, update it!</p>
 <p>Now, before you jump to setting up your fingerprint or facial recognition ... a word&nbsp;of warning. Keep in mind that all biometric data can be spoofed or forced (coersion or legally) somehow. That doesn't mean you shouldn't&nbsp;use it at all;&nbsp;I do. It certainly is more convenient to place my fingerprint on the scanner than it is to type in an eight digit passcode everytime I want to do something secure. However, you need to personally weigh the pros and cons of that convenience versus the potential drawbacks. If you&nbsp;<em>do</em> continue with using your biometrics (fingerprint and/or face), remember that every time you reboot your device it will require you to re-enter your passcode.&nbsp;</p>
 <p>Well, today was short and sweet and now your device is&nbsp;<em>years</em> more secure than it was previously. See you tomorrow!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 11</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-11/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-11/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-11T09:00:00-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/45/advent-11.jpg" alt="" />
-                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: use a VPN</p>
-<p>I've already posted about the <a href="#INTERNAL_LINK#/post/39">importance of encryption</a>, but that focused on your "data at rest"&nbsp;- your hard drives and mobile device. Today's tip is about Virtual Private Networks (VPNs) which encrypts your network traffic between your computer or mobile to the end server. You're likely already a little familiar with a form of this with Secure Sockets Layer (SSL); whenever you navigate to a website using HTTPS your traffic is encrypted between the browser and the web server.</p>
-<p>However, the benefit of a VPN is that&nbsp;<strong>all&nbsp;</strong>traffic is encrypted from your computer, not just the browser. Basically, the VPN software creates a tunnel between your computer and the VPN server and nobody else can view that traffic.&nbsp;Besides encrypting your data to keep hackers out,&nbsp;there are a couple other benefits to using a VPN.</p>
-<p>First, your data is kept private from your Internet Service Provider (ISP) and anybody else who may try to sell your data or re-route your traffic. For example, my provider Verizon sometimes redirects my traffic to their own search engine rather than my search engine of choice. While this doesn't hurt my browsing experience&nbsp;<em>in essence</em>, it's annoying that they're intercepting my traffic and trying to monetize that when I already pay them for a service.</p>
-<p>Second, you can make your computer or device appear to come from a different IP address or location. There are many reasons you might need to change your IP address or circumvent geographical network barriers, and a VPN is an easy way to do that.</p>
-<p>There are a&nbsp;<strong>lot</strong> of options when it comes to a VPN provider. There are even a lot of&nbsp;<em>free</em> VPN options available. I discourage the free services simply because they have to make their money&nbsp;<em>somewhere</em>; unless they've spelled out how they're making their money, and you're okay with it. In that case,&nbsp;it might be a good start for you. Otherwise, there are a lot of affordable services that would be much more secure.&nbsp;A few things to pay attention to&nbsp;before purchasing/choosing a VPN service:</p>
-<ul>
-<li>Pay attention to the number of servers available to which to connect&nbsp;- more servers available means more options for you</li>
-<li>Determine if geo-shifting your location is important - some services charge more for overseas or out-of-country VPN connections</li>
-<li>Consider when and where you will use your VPN - is it's an "always on"&nbsp;or "on demand" type of connection; some services restrict bandwidth or only offer limited bandwidth to begin with</li>
-<li>Will you use the VPN on your mobile device - if so, make sure the provider offers an app for your phone or tablet</li>
-<li>Ask yourself how important privacy and plausible deniability are to you - people have their own reasons for using a VPN and all providers handle logging, jurisdiction, etc</li>
-</ul>
-<p>There's a fantastic, comprehensive breakdown of almost 200 VPN providers available at <a href="https://thatoneprivacysite.net/vpn-comparison-chart/" target="_blank" rel="noopener noreferrer">That One Privacy Site</a>. There are many more factors reviewed on there, like the provider's activism for example. It's the most thorough review site I've seen and I highly recommend you check it out!</p>
-<p>In the end, you have to&nbsp;<strong>trust</strong> the service you're using with your data; just like you currently trust your ISP with your data (or probably more). So, a little research is worth it.&nbsp;</p>
-<p>See you tomorrow!</p>
             ]]>
         </content>
     </entry>
