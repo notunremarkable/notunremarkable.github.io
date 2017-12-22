@@ -3,12 +3,43 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-21T08:02:08-05:00</updated>
+    <updated>2017-12-22T08:15:45-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 22</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-22/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-22/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-22T09:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/57/advent-22.jpg" alt="" />
+                <p>Today's Cybersecurity tip is: report any issues</p>
+<p>We can agree that no amount of security will keep you perfectly safe, right? That is to say, except completely staying off the internet and not using anybody with online connectivity ... but that's so user-prohibitive that it's not very feasible. At any rate, you <em>will</em> have some issue or problem or questionable link or whatever. You just will.</p>
+<p>So, what should you do? First step is to report it! To whom? That depends on what it is. You'll need to report some issues to the government (FTC, IRS, etc.), some to your ISP, some to the originating service. I've compiled a few places to report scams, fraud, or other issues:</p>
+<ul>
+<li><strong>FTC complaint site</strong> - <a href="https://www.ftccomplaintassistant.gov/#crnt&amp;panel1-1">https://www.ftccomplaintassistant.gov/#crnt&amp;panel1-1</a><br>A good first stop for reporting identity theft, scams, telemarketing, spam, and a variety of other issues</li>
+<li><strong>IdentityTheft.gov</strong> - <a href="https://www.identitytheft.gov/">https://www.identitytheft.gov/</a><br>Also an FTC website, but strictly devoted to Identity Theft and Data Breaches</li>
+<li><strong>FBI Internet Crime Complaint Center</strong> - <a href="https://www.ic3.gov">https://www.ic3.gov</a><br>To file complaints about internet-based fraud</li>
+<li><strong>e-consumer.gov</strong> - <a href="https://www.econsumer.gov/en/Home/FileAComplaint/1#crnt">https://www.econsumer.gov/en/Home/FileAComplaint/1#crnt</a><br>For complaints about international e-business fraud and scams</li>
+<li><strong>StopFraud.gov</strong> - <a href="https://www.stopfraud.gov/sf/report-financial-fraud">https://www.stopfraud.gov/sf/report-financial-fraud</a><br>For complaints about financial fraud</li>
+<li>A multitude of other resources is available at USA.gov - <a href="https://www.usa.gov/stop-scams-frauds">https://www.usa.gov/stop-scams-frauds</a></li>
+</ul>
+<p>You may need to visit a service's website to find where to send problems/scams/spam/etc. If you're not sure, try entering "<strong>report fraud </strong><em>[service]</em>" into your favorite search engine. For example, "report fraud verizon" returns the <a href="https://www.verizonwireless.com/fraud/" target="_blank" rel="noopener noreferrer">Verizon Fraud Prevention</a> site as the first result.</p>
+<p>Hopefully you never have to use these resources, but they're good to know just in case.</p>
+<p>See you tomorrow!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 21</title>
         <author>
@@ -278,30 +309,6 @@
 </ul>
 <p>Now you are able to visit the <a href="https://www.google.com/android/find" target="_blank" rel="noopener noreferrer">Google Find My Device</a> or the <a href="https://www.icloud.com/">Apple iCloud</a>&nbsp;page on a web browser, sign into the same account you're logged into on the phone, and then remotely lock, locate, and/or play a sound on your phone. This is handy if the phone was left somewhere or just lost in the house.</p>
 <p>See?&nbsp;Easy-peasy lemon squeezy. See you tomorrow!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 12</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-12/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-12/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-12T09:00:00-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/46/advent-12.jpg" alt="" />
-                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>lock your mobile device</strong></p>
-<p>Most of us carry (or have access to) everything in our phones: bank account, personal contacts, social media, and more. You're basically walking around with a mobile computer, and should treat it with the same care and consideration as your laptop or desktop.</p>
-<p>It's likely you already have a passcode on your mobile device; most of them require you to set one up these days when you first get it. Unfortunately, it's probably also only a four digit passcode. Did you know that with the right hardware, your four digit code can be brute force hacked in just&nbsp;<em>four days</em>?</p>
-<p>The more digits in your passcode, the harder it is to crack. At the very least, just take your four digit passcode and double it. Turning&nbsp;<strong>1234</strong> into&nbsp;<strong>12341234</strong>&nbsp;makes a brute force crack go from about four days to almost&nbsp;<em>six years</em>! Of course ... you use a better passcode than&nbsp;<strong>1234</strong> though, right?!</p>
-<p>So right now, if you don't have a passcode, set one up. If you do, but it's less than eight digits, update it!</p>
-<p>Now, before you jump to setting up your fingerprint or facial recognition ... a word&nbsp;of warning. Keep in mind that all biometric data can be spoofed or forced (coersion or legally) somehow. That doesn't mean you shouldn't&nbsp;use it at all;&nbsp;I do. It certainly is more convenient to place my fingerprint on the scanner than it is to type in an eight digit passcode everytime I want to do something secure. However, you need to personally weigh the pros and cons of that convenience versus the potential drawbacks. If you&nbsp;<em>do</em> continue with using your biometrics (fingerprint and/or face), remember that every time you reboot your device it will require you to re-enter your passcode.&nbsp;</p>
-<p>Well, today was short and sweet and now your device is&nbsp;<em>years</em> more secure than it was previously. See you tomorrow!</p>
             ]]>
         </content>
     </entry>
