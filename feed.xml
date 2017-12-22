@@ -3,7 +3,7 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-22T08:15:45-05:00</updated>
+    <updated>2017-12-22T10:59:28-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
@@ -18,12 +18,12 @@
         <id>http://git.notunremarkable.me/cybersecurity-advent-day-22/</id>
             <category term="Security"/>
 
-        <updated>2017-12-22T09:00:00-05:00</updated>
+        <updated>2017-12-22T10:59:10-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="http://git.notunremarkable.me/media/posts/57/advent-22.jpg" alt="" />
-                <p>Today's Cybersecurity tip is: report any issues</p>
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>report any issues</strong></p>
 <p>We can agree that no amount of security will keep you perfectly safe, right? That is to say, except completely staying off the internet and not using anybody with online connectivity ... but that's so user-prohibitive that it's not very feasible. At any rate, you <em>will</em> have some issue or problem or questionable link or whatever. You just will.</p>
 <p>So, what should you do? First step is to report it! To whom? That depends on what it is. You'll need to report some issues to the government (FTC, IRS, etc.), some to your ISP, some to the originating service. I've compiled a few places to report scams, fraud, or other issues:</p>
 <ul>
