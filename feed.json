@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-23/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-23/",
+            "title": "Cybersecurity Advent - Day 23",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>monitor your accounts</strong></p>\n<p>Even with all the settings we've tweaked, browser plug-ins we've installed, and common sense in the world, you <em>still</em> might get hacked or there might be a breach in some service in which you have no control. </p>\n<p>Rather than rely on the institution that has the breach to notify you, you can be proactive about your own financial accounts by monitoring them yourself or paying for a service to do it for you; depending on your level of effort or comfort. There are a multitude of services available, ranging in price. Be aware of what the services offer before you divulge your personal information and/or pay them. </p>\n<p>What to compare in credit monitoring services:</p>\n<ul>\n<li>Price</li>\n<li>Which of the three services they monitor - ideally all three</li>\n<li>How often is your credit report and/or credit score updated</li>\n<li>What additional services do they offer - ID verification, dark web watch, etc</li>\n<li>Compare customer service options - 24hr phone, email, etc</li>\n</ul>\n<p>It also doesn't hurt to search for the company in your favorite search engine and see what comes up as far as ratings, reputation, and complaints. No service is perfect, but every layer helps. </p>\n<p>Another thing to consider is that many services you already use might offer a level of free (or included) credit monitoring. Services like AAA, your insurance company, or your bank or other financial institutions. It's worth checking their website to see what they offer.</p>\n<p>If you're up to a challenge or just like to be more hands-on, <a href=\"https://lifehacker.com/how-to-monitor-your-own-credit-for-free-forever-1510277742\" target=\"_blank\" rel=\"noopener noreferrer\">Lifehacker wrote this post</a> a few years ago which will show you how to monitor your own credit for free! I haven't taken the plunge, so I can neither recommend nor discourage you from trying that route. <a href=\"https://lifehacker.com/how-to-monitor-your-own-credit-for-free-forever-1510277742\" target=\"_blank\" rel=\"noopener noreferrer\">Give it a read</a> and decide for yourself.</p>\n<p>You're building quite the aresnal of tools and services to help protect you online. I hope you're feeling safer and in control of <em>your</em> information.</p>\n<p>See you tomorrow!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/55/advent-23.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-23T09:00:00-05:00",
+            "date_modified": "2017-12-23T10:37:11-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-22/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-22/",
             "title": "Cybersecurity Advent - Day 22",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-14T09:00:00-05:00",
             "date_modified": "2017-12-14T09:00:00-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-13/",
-            "title": "Cybersecurity Advent - Day 13",
-            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>enable \"find my phone\" features</strong></p>\n<p>This will be quick and to the point. As <a href=\"#INTERNAL_LINK#/post/46\">I mentioned yesterday</a>, we pretty much carry our lives on our mobile devices. If you've never lost a phone, or even just misplaced it, count yourself lucky; it is&nbsp;<em>not</em> a fun feeling.</p>\n<p>Fortunately, most mobile operating systems have features available, built into the device, to help you find your phone if you lose it. Here are the steps for the two latest mobile operating systems:</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Security &amp; location -&gt; Find My Device</strong> and turn it \"on\"</li>\n<li><em>note:</em> you may need to download the \"Find My Device\" app from the Google Play store first</li>\n</ul>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Open&nbsp;<strong>Settings -&gt; Your Apple ID account -&gt; iCloud -&gt; Find My iPhone</strong> and turn it on</li>\n</ul>\n<p>Now you are able to visit the <a href=\"https://www.google.com/android/find\" target=\"_blank\" rel=\"noopener noreferrer\">Google Find My Device</a> or the <a href=\"https://www.icloud.com/\">Apple iCloud</a>&nbsp;page on a web browser, sign into the same account you're logged into on the phone, and then remotely lock, locate, and/or play a sound on your phone. This is handy if the phone was left somewhere or just lost in the house.</p>\n<p>See?&nbsp;Easy-peasy lemon squeezy. See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/47/advent-13.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-13T09:00:00-05:00",
-            "date_modified": "2017-12-13T09:00:00-05:00"
         }
     ]
 }
