@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-24/",
+            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-24/",
+            "title": "Cybersecurity Advent - Day 24",
+            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>watch this video series</strong></p>\n<p>This is it, you've reached the <em>final</em> tip. Today's tip is a pretty passive one and won't require much effort on your part. I'm sharing a video series with you.</p>\n<p><a href=\"https://www.varonis.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Varonis</a>, a company specializing in insider threat software, published a series of videos dedicated to Internet Security Basics. It will take about an hour to watch all seven videos. If you don't have that kind of time, watch them piecemeal or skip around to the stuff you want to learn more about.</p>\n<p>Even better, share the link with friends and family that you know should be more cyber aware or security conscious. I mean ... if you want to share the link to this series of tips I wouldn't mind either. <em>**wink**</em></p>\n<p>Without further ado ... sit back, relax, and learn: <a href=\"https://www.youtube.com/watch?list=PLYEr6kVanyrPu1qZ5g6iOr0v4ImpOOCSH&amp;v=bToocxcmyqQ\">https://www.youtube.com/watch?list=PLYEr6kVanyrPu1qZ5g6iOr0v4ImpOOCSH&amp;v=bToocxcmyqQ</a></p>\n<p>Thanks for sticking with this and have a safe 2018!</p>",
+            "image": "http://git.notunremarkable.me/media/posts/58/advent-24.jpg",
+            "author": {
+                "name": "Teejay"
+            },
+            "tags": [
+                   "Security"
+            ],
+            "date_published": "2017-12-24T09:00:00-05:00",
+            "date_modified": "2017-12-24T09:09:16-05:00"
+        },
+        {
             "id": "http://git.notunremarkable.me/cybersecurity-advent-day-23/",
             "url": "http://git.notunremarkable.me/cybersecurity-advent-day-23/",
             "title": "Cybersecurity Advent - Day 23",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2017-12-15T09:00:00-05:00",
             "date_modified": "2017-12-15T09:31:32-05:00"
-        },
-        {
-            "id": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
-            "url": "http://git.notunremarkable.me/cybersecurity-advent-day-14/",
-            "title": "Cybersecurity Advent - Day 14",
-            "content_html": "<p>Today's <a href=\"#INTERNAL_LINK#/post/34\">Cybersecurity tip</a> is: <strong>protect your lockscreen</strong></p>\n<p>I don't even need to mention how important protecting your mobile device is ... this is the <a href=\"#INTERNAL_LINK#/post/46\">third</a> <a href=\"#INTERNAL_LINK#/post/47\">day</a> of tips dedicated to them. And while it's convenient to have notifications displayed on your phone's lockscreen so you can quick check a text or email without unlocking the device, it's also a bit of a privacy and security risk.</p>\n<p>It's not unimaginable to picture a scenario in which a temporary password or something is emailed to you and shown on your phone's lockscreen; or even something as benign as a phone number being texted to you. Both scenarios can potentially reveal information you either want private or can be used against you.</p>\n<p>The benefit of not sharing private information, especially if you lose your mobile device, far outweighs the minor inconvenience of having to unlock your device to view a notification. Since I'm certain you agree, here are the steps to modify (or at least review) your notification settings on the two latest platforms:</p>\n<p><strong>Android O</strong></p>\n<ul>\n<li>Visit&nbsp;<strong>Settings -&gt; Security &amp; location -&gt; Lock screen preferences</strong>; from here you can turn off or \"hide sensitive notification content\"</li>\n</ul>\n<p><strong>iOS 11</strong></p>\n<ul>\n<li>Visit&nbsp;<strong>Settings -&gt; Notifications -&gt; Show Previews</strong>; from here you can turn off or only show previews \"when unlocked\"</li>\n</ul>\n<p>Your device is now locked down with a secure passcode, easy to find or remotely lock if you lose it, and sensitive and private information won't be shown on the lockscreen. Kudos to you for your security-consciousness.</p>\n<p>See you tomorrow!</p>",
-            "image": "http://git.notunremarkable.me/media/posts/48/advent-14.jpg",
-            "author": {
-                "name": "Teejay"
-            },
-            "tags": [
-                   "Security"
-            ],
-            "date_published": "2017-12-14T09:00:00-05:00",
-            "date_modified": "2017-12-14T09:00:00-05:00"
         }
     ]
 }

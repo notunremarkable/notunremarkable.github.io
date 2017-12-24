@@ -3,12 +3,35 @@
     <title>notunremarkable</title>
     <link href="http://git.notunremarkable.me/feed.xml" rel="self" />
     <link href="http://git.notunremarkable.me" />
-    <updated>2017-12-23T10:37:25-05:00</updated>
+    <updated>2017-12-24T09:09:30-05:00</updated>
     <author>
         <name>Teejay</name>
     </author>
     <id>http://git.notunremarkable.me</id>
 
+    <entry>
+        <title>Cybersecurity Advent - Day 24</title>
+        <author>
+            <name>Teejay</name>
+        </author>
+        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-24/"/>
+        <id>http://git.notunremarkable.me/cybersecurity-advent-day-24/</id>
+            <category term="Security"/>
+
+        <updated>2017-12-24T09:09:16-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://git.notunremarkable.me/media/posts/58/advent-24.jpg" alt="" />
+                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>watch this video series</strong></p>
+<p>This is it, you've reached the <em>final</em> tip. Today's tip is a pretty passive one and won't require much effort on your part. I'm sharing a video series with you.</p>
+<p><a href="https://www.varonis.com/" target="_blank" rel="noopener noreferrer">Varonis</a>, a company specializing in insider threat software, published a series of videos dedicated to Internet Security Basics. It will take about an hour to watch all seven videos. If you don't have that kind of time, watch them piecemeal or skip around to the stuff you want to learn more about.</p>
+<p>Even better, share the link with friends and family that you know should be more cyber aware or security conscious. I mean ... if you want to share the link to this series of tips I wouldn't mind either. <em>**wink**</em></p>
+<p>Without further ado ... sit back, relax, and learn: <a href="https://www.youtube.com/watch?list=PLYEr6kVanyrPu1qZ5g6iOr0v4ImpOOCSH&amp;v=bToocxcmyqQ">https://www.youtube.com/watch?list=PLYEr6kVanyrPu1qZ5g6iOr0v4ImpOOCSH&amp;v=bToocxcmyqQ</a></p>
+<p>Thanks for sticking with this and have a safe 2018!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cybersecurity Advent - Day 23</title>
         <author>
@@ -279,37 +302,6 @@
 </ul>
 <p><strong>Be vigilant of information you give out<br></strong>Even if an email doesn't include an attachment or link, the person sending it might be <a href="https://en.wikipedia.org/wiki/Phishing" target="_blank" rel="noopener noreferrer">phishing</a> for information. Don't give out any usernames, birth dates, SSNs, or other sensitive information. Pay attention to who they are and what they're asking. If you wouldn't give information to a stranger face-to-face, then you shouldn't through email. And remember that it's very easy to spoof email information, so it can look like it's coming from somebody legitimate. Sometimes it doesn't hurt to verify you're having an actual conversation with the right person ... or better yet, is email the best place for that conversation? Maybe a phone call, text, or some other form of communication would be better.</p>
 <p>Hopefully these tips will help you feel a little safer using your inbox and can avoid malware or security breaches of sensitive information through email (and other digital communication).</p>
-<p>See you tomorrow!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cybersecurity Advent - Day 14</title>
-        <author>
-            <name>Teejay</name>
-        </author>
-        <link href="http://git.notunremarkable.me/cybersecurity-advent-day-14/"/>
-        <id>http://git.notunremarkable.me/cybersecurity-advent-day-14/</id>
-            <category term="Security"/>
-
-        <updated>2017-12-14T09:00:00-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://git.notunremarkable.me/media/posts/48/advent-14.jpg" alt="" />
-                <p>Today's <a href="#INTERNAL_LINK#/post/34">Cybersecurity tip</a> is: <strong>protect your lockscreen</strong></p>
-<p>I don't even need to mention how important protecting your mobile device is ... this is the <a href="#INTERNAL_LINK#/post/46">third</a> <a href="#INTERNAL_LINK#/post/47">day</a> of tips dedicated to them. And while it's convenient to have notifications displayed on your phone's lockscreen so you can quick check a text or email without unlocking the device, it's also a bit of a privacy and security risk.</p>
-<p>It's not unimaginable to picture a scenario in which a temporary password or something is emailed to you and shown on your phone's lockscreen; or even something as benign as a phone number being texted to you. Both scenarios can potentially reveal information you either want private or can be used against you.</p>
-<p>The benefit of not sharing private information, especially if you lose your mobile device, far outweighs the minor inconvenience of having to unlock your device to view a notification. Since I'm certain you agree, here are the steps to modify (or at least review) your notification settings on the two latest platforms:</p>
-<p><strong>Android O</strong></p>
-<ul>
-<li>Visit&nbsp;<strong>Settings -&gt; Security &amp; location -&gt; Lock screen preferences</strong>; from here you can turn off or "hide sensitive notification content"</li>
-</ul>
-<p><strong>iOS 11</strong></p>
-<ul>
-<li>Visit&nbsp;<strong>Settings -&gt; Notifications -&gt; Show Previews</strong>; from here you can turn off or only show previews "when unlocked"</li>
-</ul>
-<p>Your device is now locked down with a secure passcode, easy to find or remotely lock if you lose it, and sensitive and private information won't be shown on the lockscreen. Kudos to you for your security-consciousness.</p>
 <p>See you tomorrow!</p>
             ]]>
         </content>
